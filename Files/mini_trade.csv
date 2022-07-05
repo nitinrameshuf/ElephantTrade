@@ -1,0 +1,1529 @@
+country_or_area,year,comm_code,commodity,flow,trade_usd,weight_kg,quantity_name,quantity,category
+Afghanistan,2016,10410,"Sheep, live",Export,6088,2339,Number of items,51,01_live_animals
+Afghanistan,2016,10420,"Goats, live",Export,3958,984,Number of items,53,01_live_animals
+Afghanistan,2008,10210,"Bovine animals, live pure-bred breeding",Import,1026804,272,Number of items,3769,01_live_animals
+Albania,2016,10290,"Bovine animals, live, except pure-bred breeding",Import,2414533,1114023,Number of items,6853,01_live_animals
+Albania,2016,10392,"Swine, live except pure-bred breeding > 50 kg",Import,14265937,9484953,Number of items,96040,01_live_animals
+Albania,2016,10511,"Fowls, live domestic < 185 grams",Import,2671732,254652,Number of items,5629138,01_live_animals
+Albania,2016,10511,"Fowls, live domestic < 185 grams",Export,87581,5320,Number of items,115180,01_live_animals
+Albania,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Import,26485,2908,Number of items,64000,01_live_animals
+Albania,2016,10591,"Fowls, live domestic > 185 grams",Import,2421513,1926850,Number of items,1006990,01_live_animals
+Albania,2016,10599,"Poultry, live except domestic fowls, > 185 grams",Import,251318,211177,Number of items,205124,01_live_animals
+Albania,2016,10600,"Animals, live, except farm animals",Export,584025,59521,Number of items,59521,01_live_animals
+Albania,2015,10290,"Bovine animals, live, except pure-bred breeding",Import,7264642,3519352,Number of items,18641,01_live_animals
+Albania,2015,10391,"Swine, live except pure-bred breeding < 50 kg",Import,45843,29930,Number of items,795,01_live_animals
+Albania,2015,10392,"Swine, live except pure-bred breeding > 50 kg",Import,14031292,9439974,Number of items,93222,01_live_animals
+Albania,2015,10511,"Fowls, live domestic < 185 grams",Import,2357680,264599,Number of items,4995885,01_live_animals
+Albania,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Import,32327,3843,Number of items,80880,01_live_animals
+Albania,2015,10591,"Fowls, live domestic > 185 grams",Import,2453360,2133310,Number of items,1169944,01_live_animals
+Albania,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Import,300813,258566,Number of items,48170912,01_live_animals
+Albania,2015,10600,"Animals, live, except farm animals",Export,636184,80774,Number of items,80694,01_live_animals
+Albania,2014,10290,"Bovine animals, live, except pure-bred breeding",Import,8158583,4080294,Number of items,18688,01_live_animals
+Albania,2014,10392,"Swine, live except pure-bred breeding > 50 kg",Import,13483939,8113086,Number of items,83900,01_live_animals
+Albania,2014,10410,"Sheep, live",Import,21633,8125,Number of items,257,01_live_animals
+Albania,2014,10511,"Fowls, live domestic < 185 grams",Import,2618381,209999,Number of items,4641445,01_live_animals
+Albania,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Import,31586,3511,Number of items,64700,01_live_animals
+Albania,2014,10591,"Fowls, live domestic > 185 grams",Import,3722428,2715750,Number of items,1531017,01_live_animals
+Albania,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Import,306678,217640,Number of items,245750,01_live_animals
+Albania,2014,10600,"Animals, live, except farm animals",Import,17544,4948,No Quantity,,01_live_animals
+Albania,2013,10119,"Horses, live except pure-bred breeding",Import,3598,1500,Number of items,4,01_live_animals
+Albania,2013,10120,"Asses, mules and hinnies, live",Import,6760,2250,Number of items,5,01_live_animals
+Albania,2013,10210,"Bovine animals, live pure-bred breeding",Import,153667,62050,Number of items,161,01_live_animals
+Albania,2013,10290,"Bovine animals, live, except pure-bred breeding",Import,9129721,4497831,Number of items,27104,01_live_animals
+Albania,2013,10391,"Swine, live except pure-bred breeding < 50 kg",Import,320264,139131,Number of items,3338,01_live_animals
+Albania,2013,10392,"Swine, live except pure-bred breeding > 50 kg",Import,12264218,7315786,Number of items,81859,01_live_animals
+Albania,2013,10410,"Sheep, live",Import,188979,72560,Number of items,1740,01_live_animals
+Albania,2013,10420,"Goats, live",Import,249889,35655,Number of items,1320,01_live_animals
+Albania,2013,10511,"Fowls, live domestic < 185 grams",Import,2780932,229628,Number of items,5033354,01_live_animals
+Albania,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Import,35206,2945,Number of items,50480,01_live_animals
+Albania,2013,10591,"Fowls, live domestic > 185 grams",Import,3042812,2379634,Number of items,1409156,01_live_animals
+Albania,2013,10599,"Poultry, live except domestic fowls, > 185 grams",Import,219084,155070,Number of items,207200,01_live_animals
+Albania,2013,10600,"Animals, live, except farm animals",Import,816312,108525,No Quantity,,01_live_animals
+Albania,2013,10600,"Animals, live, except farm animals",Export,846588,99329,No Quantity,,01_live_animals
+Albania,2012,10210,"Bovine animals, live pure-bred breeding",Import,674257,221566,Number of items,614,01_live_animals
+Albania,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,10979014,5556474,Number of items,29030,01_live_animals
+Albania,2012,10290,"Bovine animals, live, except pure-bred breeding",Export,3390,2270,Number of items,22,01_live_animals
+Albania,2012,10391,"Swine, live except pure-bred breeding < 50 kg",Import,254279,135936,Number of items,2680,01_live_animals
+Albania,2012,10392,"Swine, live except pure-bred breeding > 50 kg",Import,11492587,7066783,Number of items,78853,01_live_animals
+Albania,2012,10410,"Sheep, live",Import,147367,39310,Number of items,1118,01_live_animals
+Albania,2012,10420,"Goats, live",Import,118975,35975,Number of items,1318,01_live_animals
+Albania,2012,10511,"Fowls, live domestic < 185 grams",Import,2776389,280065,Number of items,5679462,01_live_animals
+Albania,2012,10511,"Fowls, live domestic < 185 grams",Export,2480,360,Number of items,6000,01_live_animals
+Albania,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Import,73318,16211,Number of items,101340,01_live_animals
+Albania,2012,10591,"Fowls, live domestic > 185 grams",Import,1649995,2015450,Number of items,1176163,01_live_animals
+Albania,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Import,166226,181960,Number of items,228390,01_live_animals
+Albania,2012,10600,"Animals, live, except farm animals",Import,1401366,208478,No Quantity,,01_live_animals
+Albania,2012,10600,"Animals, live, except farm animals",Export,895347,119590,No Quantity,,01_live_animals
+Albania,2011,10119,"Horses, live except pure-bred breeding",Import,7350,2382,Number of items,9,01_live_animals
+Albania,2011,10210,"Bovine animals, live pure-bred breeding",Import,802225,253186,Number of items,482,01_live_animals
+Albania,2011,10290,"Bovine animals, live, except pure-bred breeding",Import,12105672,5707708,Number of items,32143,01_live_animals
+Albania,2011,10310,"Swine, live pure-bred breeding",Import,65906,36636,Number of items,360,01_live_animals
+Albania,2011,10391,"Swine, live except pure-bred breeding < 50 kg",Import,222614,125434,Number of items,1970,01_live_animals
+Albania,2011,10392,"Swine, live except pure-bred breeding > 50 kg",Import,11838110,6800863,Number of items,79070,01_live_animals
+Albania,2011,10410,"Sheep, live",Import,444980,117555,Number of items,2246,01_live_animals
+Albania,2011,10420,"Goats, live",Import,145423,40876,Number of items,1156,01_live_animals
+Albania,2011,10511,"Fowls, live domestic < 185 grams",Import,2818547,325878,Number of items,5853248,01_live_animals
+Albania,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Import,95883,41460,Number of items,94100,01_live_animals
+Albania,2011,10591,"Fowls, live domestic > 185 grams",Import,1601263,1798951,Number of items,1047368,01_live_animals
+Albania,2011,10599,"Poultry, live except domestic fowls, > 185 grams",Import,144106,210686,Number of items,184130,01_live_animals
+Albania,2011,10600,"Animals, live, except farm animals",Export,997424,137017,No Quantity,,01_live_animals
+Albania,2011,10600,"Animals, live, except farm animals",Import,1263526,198740,No Quantity,,01_live_animals
+Albania,2010,10119,"Horses, live except pure-bred breeding",Import,3579,1119,Number of items,5,01_live_animals
+Albania,2010,10210,"Bovine animals, live pure-bred breeding",Import,628861,197482,Number of items,368,01_live_animals
+Albania,2010,10290,"Bovine animals, live, except pure-bred breeding",Import,17658038,8538249,Number of items,49478,01_live_animals
+Albania,2010,10310,"Swine, live pure-bred breeding",Import,90783,55980,Number of items,552,01_live_animals
+Albania,2010,10391,"Swine, live except pure-bred breeding < 50 kg",Import,199919,123788,Number of items,2090,01_live_animals
+Albania,2010,10392,"Swine, live except pure-bred breeding > 50 kg",Import,9414329,5807954,Number of items,69739,01_live_animals
+Albania,2010,10410,"Sheep, live",Import,141413,47010,Number of items,24355,01_live_animals
+Albania,2010,10420,"Goats, live",Import,57083,23405,Number of items,595,01_live_animals
+Albania,2010,10511,"Fowls, live domestic < 185 grams",Import,2987471,533590,Number of items,6248176,01_live_animals
+Albania,2010,10519,"Poultry, live except domestic fowls, < 185 grams",Import,170344,13095,Number of items,138382,01_live_animals
+Albania,2010,10591,"Fowls, live domestic > 185 grams",Import,2292001,2751701,Number of items,1489754,01_live_animals
+Albania,2010,10599,"Poultry, live except domestic fowls, > 185 grams",Import,156336,210737,Number of items,191013,01_live_animals
+Albania,2010,10600,"Animals, live, except farm animals",Export,609694,94520,No Quantity,,01_live_animals
+Albania,2010,10600,"Animals, live, except farm animals",Import,778063,145950,No Quantity,,01_live_animals
+Albania,2009,10119,"Horses, live except pure-bred breeding",Import,24270,10510,Number of items,28,01_live_animals
+Albania,2009,10210,"Bovine animals, live pure-bred breeding",Import,591836,182392,Number of items,334,01_live_animals
+Albania,2009,10290,"Bovine animals, live, except pure-bred breeding",Import,26028954,12145286,Number of items,69055,01_live_animals
+Albania,2009,10391,"Swine, live except pure-bred breeding < 50 kg",Import,390877,223719,Number of items,3100,01_live_animals
+Albania,2009,10392,"Swine, live except pure-bred breeding > 50 kg",Import,7571008,4367254,Number of items,131882,01_live_animals
+Albania,2009,10410,"Sheep, live",Import,85318,33664,Number of items,602,01_live_animals
+Albania,2009,10420,"Goats, live",Import,13309,5250,Number of items,175,01_live_animals
+Albania,2009,10511,"Fowls, live domestic < 185 grams",Import,2964868,351694,Number of items,6359495,01_live_animals
+Albania,2009,10519,"Poultry, live except domestic fowls, < 185 grams",Import,99146,5250,Number of items,67347,01_live_animals
+Albania,2009,10591,"Fowls, live domestic > 185 grams",Import,964777,1312414,Number of items,824648,01_live_animals
+Albania,2009,10599,"Poultry, live except domestic fowls, > 185 grams",Import,150676,127684,Number of items,125400,01_live_animals
+Albania,2009,10600,"Animals, live, except farm animals",Import,636568,87951,No Quantity,,01_live_animals
+Albania,2009,10600,"Animals, live, except farm animals",Export,520743,54176,No Quantity,,01_live_animals
+Albania,2008,10119,"Horses, live except pure-bred breeding",Import,7997,2800,Number of items,8,01_live_animals
+Albania,2008,10210,"Bovine animals, live pure-bred breeding",Import,462721,97420,Number of items,227,01_live_animals
+Albania,2008,10290,"Bovine animals, live, except pure-bred breeding",Import,29130831,12733299,Number of items,485180,01_live_animals
+Albania,2008,10310,"Swine, live pure-bred breeding",Import,565499,278505,Number of items,1028,01_live_animals
+Albania,2008,10391,"Swine, live except pure-bred breeding < 50 kg",Import,87175,46610,Number of items,800,01_live_animals
+Albania,2008,10392,"Swine, live except pure-bred breeding > 50 kg",Import,7372797,3953924,Number of items,42548,01_live_animals
+Albania,2008,10511,"Fowls, live domestic < 185 grams",Import,2395577,256206,Number of items,4927432,01_live_animals
+Albania,2008,10519,"Poultry, live except domestic fowls, < 185 grams",Import,151377,14449,Number of items,125780,01_live_animals
+Albania,2008,10591,"Fowls, live domestic > 185 grams",Import,419684,484490,Number of items,322000,01_live_animals
+Albania,2008,10599,"Poultry, live except domestic fowls, > 185 grams",Import,51562,72810,Number of items,39230,01_live_animals
+Albania,2008,10600,"Animals, live, except farm animals",Import,859291,112974,Number of items,109907,01_live_animals
+Albania,2008,10600,"Animals, live, except farm animals",Export,767554,82215,Number of items,78592,01_live_animals
+Albania,2008,10600,"Animals, live, except farm animals",Re-Export,603716,66820,Number of items,63999,01_live_animals
+Albania,2007,10111,"Horses, live pure-bred breeding",Import,97402,,No Quantity,,01_live_animals
+Albania,2007,10119,"Horses, live except pure-bred breeding",Import,8753,,No Quantity,,01_live_animals
+Albania,2007,10210,"Bovine animals, live pure-bred breeding",Import,507218,142262,Number of items,292,01_live_animals
+Albania,2007,10290,"Bovine animals, live, except pure-bred breeding",Import,24843875,10169863,Number of items,36544,01_live_animals
+Albania,2007,10310,"Swine, live pure-bred breeding",Import,277565,36285,Number of items,502,01_live_animals
+Albania,2007,10391,"Swine, live except pure-bred breeding < 50 kg",Import,103493,,No Quantity,,01_live_animals
+Albania,2007,10392,"Swine, live except pure-bred breeding > 50 kg",Import,3929743,,Number of items,23739,01_live_animals
+Albania,2007,10420,"Goats, live",Export,2635,935,No Quantity,,01_live_animals
+Albania,2007,10511,"Fowls, live domestic < 185 grams",Import,1736292,32415,No Quantity,,01_live_animals
+Albania,2007,10519,"Poultry, live except domestic fowls, < 185 grams",Import,82065,,No Quantity,,01_live_animals
+Albania,2007,10591,"Fowls, live domestic > 185 grams",Import,496567,,Number of items,231692,01_live_animals
+Albania,2007,10599,"Poultry, live except domestic fowls, > 185 grams",Import,27290,,Number of items,4151,01_live_animals
+Albania,2007,10600,"Animals, live, except farm animals",Import,543407,,No Quantity,,01_live_animals
+Albania,2007,10600,"Animals, live, except farm animals",Export,818676,,No Quantity,,01_live_animals
+Albania,2006,10119,"Horses, live except pure-bred breeding",Import,9136,1530,Number of items,5,01_live_animals
+Albania,2006,10210,"Bovine animals, live pure-bred breeding",Import,1075215,596367,Number of items,1062,01_live_animals
+Albania,2006,10290,"Bovine animals, live, except pure-bred breeding",Import,17335204,10576379,Number of items,331900,01_live_animals
+Albania,2006,10391,"Swine, live except pure-bred breeding < 50 kg",Import,171568,110888,Number of items,3175,01_live_animals
+Albania,2006,10392,"Swine, live except pure-bred breeding > 50 kg",Import,3603909,2319085,Number of items,74300,01_live_animals
+Albania,2006,10410,"Sheep, live",Import,2484,2500,Number of items,76,01_live_animals
+Albania,2006,10420,"Goats, live",Import,3755,1500,Number of items,49,01_live_animals
+Albania,2006,10511,"Fowls, live domestic < 185 grams",Import,937792,130418,Number of items,2330395,01_live_animals
+Albania,2006,10519,"Poultry, live except domestic fowls, < 185 grams",Import,18138,2029,Number of items,25710,01_live_animals
+Albania,2006,10591,"Fowls, live domestic > 185 grams",Import,118578,201868,Number of items,149514,01_live_animals
+Albania,2006,10599,"Poultry, live except domestic fowls, > 185 grams",Import,12472,14300,Number of items,17701,01_live_animals
+Albania,2006,10600,"Animals, live, except farm animals",Import,567152,119855,Number of items,30319,01_live_animals
+Albania,2006,10600,"Animals, live, except farm animals",Export,1063300,224278,Number of items,81337,01_live_animals
+Albania,2006,10600,"Animals, live, except farm animals",Re-Export,476744,109332,Number of items,28748,01_live_animals
+Albania,2006,10600,"Animals, live, except farm animals",Re-Import,546949,117200,Number of items,29400,01_live_animals
+Albania,2005,10111,"Horses, live pure-bred breeding",Import,18273,15400,Number of items,13506,01_live_animals
+Albania,2005,10119,"Horses, live except pure-bred breeding",Import,2834,400,Number of items,4,01_live_animals
+Albania,2005,10210,"Bovine animals, live pure-bred breeding",Import,1187125,671107,Number of items,1236,01_live_animals
+Albania,2005,10290,"Bovine animals, live, except pure-bred breeding",Import,6900678,4320749,Number of items,84262,01_live_animals
+Albania,2005,10310,"Swine, live pure-bred breeding",Import,59351,42510,Number of items,797,01_live_animals
+Albania,2005,10391,"Swine, live except pure-bred breeding < 50 kg",Import,89398,83995,Number of items,1779,01_live_animals
+Albania,2005,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1398170,1770931,Number of items,45445,01_live_animals
+Albania,2005,10410,"Sheep, live",Import,9074,10680,Number of items,348,01_live_animals
+Albania,2005,10511,"Fowls, live domestic < 185 grams",Import,1272712,187566,Number of items,2804778,01_live_animals
+Albania,2005,10511,"Fowls, live domestic < 185 grams",Export,35714,2477,Number of items,64325,01_live_animals
+Albania,2005,10519,"Poultry, live except domestic fowls, < 185 grams",Import,49608,5568,Number of items,30834,01_live_animals
+Albania,2005,10591,"Fowls, live domestic > 185 grams",Import,110586,182879,Number of items,102187,01_live_animals
+Albania,2005,10599,"Poultry, live except domestic fowls, > 185 grams",Import,28726,21285,Number of items,10936,01_live_animals
+Albania,2005,10600,"Animals, live, except farm animals",Import,41404,21292,Number of items,4521,01_live_animals
+Albania,2005,10600,"Animals, live, except farm animals",Export,918970,140870,Number of items,137102,01_live_animals
+Albania,2005,10600,"Animals, live, except farm animals",Re-Export,81661,120,Number of items,2,01_live_animals
+Albania,2004,10111,"Horses, live pure-bred breeding",Import,4089,3366,Number of items,1202,01_live_animals
+Albania,2004,10119,"Horses, live except pure-bred breeding",Import,1142,520,Number of items,4,01_live_animals
+Albania,2004,10210,"Bovine animals, live pure-bred breeding",Import,1368451,706591,Number of items,1717,01_live_animals
+Albania,2004,10290,"Bovine animals, live, except pure-bred breeding",Import,2142425,1521541,Number of items,38843,01_live_animals
+Albania,2004,10391,"Swine, live except pure-bred breeding < 50 kg",Import,108210,119520,Number of items,2447,01_live_animals
+Albania,2004,10392,"Swine, live except pure-bred breeding > 50 kg",Import,407522,556714,Number of items,7084,01_live_animals
+Albania,2004,10410,"Sheep, live",Import,2600,1410,Number of items,35,01_live_animals
+Albania,2004,10420,"Goats, live",Import,5376,4800,Number of items,160,01_live_animals
+Albania,2004,10511,"Fowls, live domestic < 185 grams",Import,759378,110147,Number of items,2466766,01_live_animals
+Albania,2004,10519,"Poultry, live except domestic fowls, < 185 grams",Import,21363,2339,Number of items,15942,01_live_animals
+Albania,2004,10591,"Fowls, live domestic > 185 grams",Import,183187,272140,Number of items,183034,01_live_animals
+Albania,2004,10599,"Poultry, live except domestic fowls, > 185 grams",Import,591,410,Number of items,280,01_live_animals
+Albania,2004,10600,"Animals, live, except farm animals",Import,2163,715,Number of items,250,01_live_animals
+Albania,2004,10600,"Animals, live, except farm animals",Export,769695,107579,Number of items,80306,01_live_animals
+Albania,2003,10111,"Horses, live pure-bred breeding",Import,1851,116,Number of items,139,01_live_animals
+Albania,2003,10111,"Horses, live pure-bred breeding",Export,3346,125,Number of items,1,01_live_animals
+Albania,2003,10210,"Bovine animals, live pure-bred breeding",Import,1296679,467655,Number of items,22276,01_live_animals
+Albania,2003,10290,"Bovine animals, live, except pure-bred breeding",Import,1494653,729440,Number of items,39987,01_live_animals
+Albania,2003,10310,"Swine, live pure-bred breeding",Import,28293,3920,Number of items,180,01_live_animals
+Albania,2003,10391,"Swine, live except pure-bred breeding < 50 kg",Import,38902,18881,Number of items,1156,01_live_animals
+Albania,2003,10392,"Swine, live except pure-bred breeding > 50 kg",Import,26605,21093,Number of items,2182,01_live_animals
+Albania,2003,10410,"Sheep, live",Import,4095,1909,Number of items,81,01_live_animals
+Albania,2003,10511,"Fowls, live domestic < 185 grams",Import,849188,16714,Number of items,2666020,01_live_animals
+Albania,2003,10519,"Poultry, live except domestic fowls, < 185 grams",Import,14218,468,Number of items,22100,01_live_animals
+Albania,2003,10591,"Fowls, live domestic > 185 grams",Import,171041,33325,Number of items,170486,01_live_animals
+Albania,2003,10599,"Poultry, live except domestic fowls, > 185 grams",Import,2243,,Number of items,1750,01_live_animals
+Albania,2003,10600,"Animals, live, except farm animals",Import,75009,1792,Number of items,300515,01_live_animals
+Albania,2003,10600,"Animals, live, except farm animals",Export,31957,1209,Number of items,7670,01_live_animals
+Albania,2002,10210,"Bovine animals, live pure-bred breeding",Import,1006256,433340,Number of items,5461,01_live_animals
+Albania,2002,10290,"Bovine animals, live, except pure-bred breeding",Import,185395,97502,Number of items,12651,01_live_animals
+Albania,2002,10290,"Bovine animals, live, except pure-bred breeding",Export,2358,1537,Number of items,6573,01_live_animals
+Albania,2002,10391,"Swine, live except pure-bred breeding < 50 kg",Import,5503,2770,Number of items,100,01_live_animals
+Albania,2002,10392,"Swine, live except pure-bred breeding > 50 kg",Import,188280,162747,Number of items,13463,01_live_animals
+Albania,2002,10410,"Sheep, live",Import,4555,2258,Number of items,86,01_live_animals
+Albania,2002,10420,"Goats, live",Import,21696,8785,Number of items,200,01_live_animals
+Albania,2002,10511,"Fowls, live domestic < 185 grams",Import,519952,11488,Number of items,1699224,01_live_animals
+Albania,2002,10591,"Fowls, live domestic > 185 grams",Import,1020836,,Number of items,1120301,01_live_animals
+Albania,2002,10591,"Fowls, live domestic > 185 grams",Export,2072,1294,Number of items,5500,01_live_animals
+Albania,2002,10599,"Poultry, live except domestic fowls, > 185 grams",Import,3057,,Number of items,1700,01_live_animals
+Albania,2002,10600,"Animals, live, except farm animals",Import,156706,4178,Number of items,37205,01_live_animals
+Albania,2002,10600,"Animals, live, except farm animals",Export,334524,12745,Number of items,47401,01_live_animals
+Albania,2001,10111,"Horses, live pure-bred breeding",Import,108,7,Number of items,2,01_live_animals
+Albania,2001,10210,"Bovine animals, live pure-bred breeding",Import,54215,26794,Number of items,287,01_live_animals
+Albania,2001,10210,"Bovine animals, live pure-bred breeding",Export,17520,,Number of items,27,01_live_animals
+Albania,2001,10310,"Swine, live pure-bred breeding",Import,847,161,Number of items,3,01_live_animals
+Albania,2001,10410,"Sheep, live",Export,9398,5659,Number of items,130,01_live_animals
+Albania,2001,10420,"Goats, live",Import,13913,5485,Number of items,60,01_live_animals
+Albania,2001,10511,"Fowls, live domestic < 185 grams",Import,432257,9732,Number of items,1269703,01_live_animals
+Albania,2001,10511,"Fowls, live domestic < 185 grams",Export,2918,67,Number of items,6720,01_live_animals
+Albania,2001,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1780,68,Number of items,900,01_live_animals
+Albania,2001,10591,"Fowls, live domestic > 185 grams",Import,1001581,,Number of items,1313550,01_live_animals
+Albania,2001,10591,"Fowls, live domestic > 185 grams",Export,6347,4265,Number of items,15365,01_live_animals
+Albania,2001,10600,"Animals, live, except farm animals",Import,224565,6610,Number of items,66606,01_live_animals
+Albania,2001,10600,"Animals, live, except farm animals",Export,120326,4658,Number of items,31036,01_live_animals
+Albania,2000,10111,"Horses, live pure-bred breeding",Import,970,67,Number of items,4,01_live_animals
+Albania,2000,10119,"Horses, live except pure-bred breeding",Import,707,102,Number of items,3,01_live_animals
+Albania,2000,10210,"Bovine animals, live pure-bred breeding",Import,106860,51518,Number of items,270,01_live_animals
+Albania,2000,10290,"Bovine animals, live, except pure-bred breeding",Import,66219,41099,Number of items,840,01_live_animals
+Albania,2000,10392,"Swine, live except pure-bred breeding > 50 kg",Import,2805,2522,Number of items,20,01_live_animals
+Albania,2000,10511,"Fowls, live domestic < 185 grams",Import,345324,7680,Number of items,1039812,01_live_animals
+Albania,2000,10511,"Fowls, live domestic < 185 grams",Export,175,4,Number of items,300,01_live_animals
+Albania,2000,10591,"Fowls, live domestic > 185 grams",Import,696108,393941,Number of items,960219,01_live_animals
+Albania,2000,10591,"Fowls, live domestic > 185 grams",Export,311,202,Number of items,720,01_live_animals
+Albania,2000,10600,"Animals, live, except farm animals",Import,677,15,Number of items,6,01_live_animals
+Albania,2000,10600,"Animals, live, except farm animals",Export,30708,1201,Number of items,39140,01_live_animals
+Albania,1999,10111,"Horses, live pure-bred breeding",Import,3340,0,Number of items,608,01_live_animals
+Albania,1999,10210,"Bovine animals, live pure-bred breeding",Import,167982,0,Number of items,184,01_live_animals
+Albania,1999,10391,"Swine, live except pure-bred breeding < 50 kg",Import,128,0,Number of items,12,01_live_animals
+Albania,1999,10392,"Swine, live except pure-bred breeding > 50 kg",Import,2674,0,Number of items,40,01_live_animals
+Albania,1999,10410,"Sheep, live",Import,53587,0,Number of items,155,01_live_animals
+Albania,1999,10420,"Goats, live",Import,13006,0,Number of items,45,01_live_animals
+Albania,1999,10511,"Fowls, live domestic < 185 grams",Import,379475,0,Number of items,804723,01_live_animals
+Albania,1999,10519,"Poultry, live except domestic fowls, < 185 grams",Import,52169,0,Number of items,24040,01_live_animals
+Albania,1999,10591,"Fowls, live domestic > 185 grams",Import,570110,0,Number of items,1098920,01_live_animals
+Albania,1999,10599,"Poultry, live except domestic fowls, > 185 grams",Import,51206,0,Number of items,22640,01_live_animals
+Albania,1999,10600,"Animals, live, except farm animals",Export,13924,0,Number of items,10000,01_live_animals
+Albania,1998,10111,"Horses, live pure-bred breeding",Import,19723,0,Number of items,46720,01_live_animals
+Albania,1998,10120,"Asses, mules and hinnies, live",Export,2708,0,Number of items,95,01_live_animals
+Albania,1998,10210,"Bovine animals, live pure-bred breeding",Import,43505,0,Number of items,67,01_live_animals
+Albania,1998,10290,"Bovine animals, live, except pure-bred breeding",Import,8841,0,Number of items,625,01_live_animals
+Albania,1998,10310,"Swine, live pure-bred breeding",Import,3400,0,Number of items,360,01_live_animals
+Albania,1998,10391,"Swine, live except pure-bred breeding < 50 kg",Import,6812,0,Number of items,245,01_live_animals
+Albania,1998,10392,"Swine, live except pure-bred breeding > 50 kg",Import,29853,0,Number of items,6188,01_live_animals
+Albania,1998,10410,"Sheep, live",Import,3124,0,Number of items,20,01_live_animals
+Albania,1998,10511,"Fowls, live domestic < 185 grams",Import,424415,0,Number of items,472806,01_live_animals
+Albania,1998,10519,"Poultry, live except domestic fowls, < 185 grams",Import,50642,0,Number of items,32808,01_live_animals
+Albania,1998,10591,"Fowls, live domestic > 185 grams",Import,995860,0,Number of items,1271665,01_live_animals
+Albania,1998,10599,"Poultry, live except domestic fowls, > 185 grams",Import,63595,0,Number of items,54764,01_live_animals
+Albania,1997,10111,"Horses, live pure-bred breeding",Export,14538,0,Number of items,12000,01_live_animals
+Albania,1997,10210,"Bovine animals, live pure-bred breeding",Import,8359,0,Number of items,3,01_live_animals
+Albania,1997,10511,"Fowls, live domestic < 185 grams",Import,446192,0,Number of items,422122,01_live_animals
+Albania,1997,10519,"Poultry, live except domestic fowls, < 185 grams",Import,104880,0,Number of items,248530,01_live_animals
+Albania,1997,10519,"Poultry, live except domestic fowls, < 185 grams",Export,10612,0,Number of items,35000,01_live_animals
+Albania,1997,10591,"Fowls, live domestic > 185 grams",Import,113191,0,Number of items,102122,01_live_animals
+Albania,1997,10600,"Animals, live, except farm animals",Import,632,0,Number of items,42,01_live_animals
+Albania,1997,10600,"Animals, live, except farm animals",Export,34767,0,Number of items,6090,01_live_animals
+Albania,1996,10111,"Horses, live pure-bred breeding",Import,31109,0,Number of items,47500,01_live_animals
+Albania,1996,10120,"Asses, mules and hinnies, live",Export,6290,0,Number of items,341,01_live_animals
+Albania,1996,10210,"Bovine animals, live pure-bred breeding",Import,306316,0,Number of items,231,01_live_animals
+Albania,1996,10391,"Swine, live except pure-bred breeding < 50 kg",Import,5004,0,Number of items,82,01_live_animals
+Albania,1996,10511,"Fowls, live domestic < 185 grams",Import,717012,0,Number of items,822769,01_live_animals
+Albania,1996,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4537,0,Number of items,6720,01_live_animals
+Albania,1996,10591,"Fowls, live domestic > 185 grams",Import,367108,0,Number of items,352926,01_live_animals
+Albania,1996,10599,"Poultry, live except domestic fowls, > 185 grams",Import,22788,0,Number of items,6804,01_live_animals
+Albania,1996,10600,"Animals, live, except farm animals",Import,170,0,Number of items,100,01_live_animals
+Albania,1996,10600,"Animals, live, except farm animals",Export,34766,0,Number of items,26157,01_live_animals
+Algeria,2016,10111,"Horses, live pure-bred breeding",Import,978230,84260,No Quantity,,01_live_animals
+Algeria,2016,10111,"Horses, live pure-bred breeding",Export,126137,4800,No Quantity,,01_live_animals
+Algeria,2016,10119,"Horses, live except pure-bred breeding",Import,96656,19430,Number of items,6,01_live_animals
+Algeria,2016,10290,"Bovine animals, live, except pure-bred breeding",Import,85118623,25486676,Number of items,92927,01_live_animals
+Algeria,2016,10511,"Fowls, live domestic < 185 grams",Import,23609477,257096,No Quantity,,01_live_animals
+Algeria,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Export,263,40,No Quantity,,01_live_animals
+Algeria,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Import,3792216,42470,Number of items,1803105,01_live_animals
+Algeria,2016,10600,"Animals, live, except farm animals",Import,112005,5886,No Quantity,,01_live_animals
+Algeria,2015,10111,"Horses, live pure-bred breeding",Import,937987,91958,Number of items,222,01_live_animals
+Algeria,2015,10111,"Horses, live pure-bred breeding",Export,86724,2400,Number of items,6,01_live_animals
+Algeria,2015,10119,"Horses, live except pure-bred breeding",Import,77474,13072,Number of items,32,01_live_animals
+Algeria,2015,10210,"Bovine animals, live pure-bred breeding",Import,157629,10112,Number of items,18,01_live_animals
+Algeria,2015,10290,"Bovine animals, live, except pure-bred breeding",Import,78401044,22737487,Number of items,3651444,01_live_animals
+Algeria,2015,10410,"Sheep, live",Import,106069,53160,Number of items,1517,01_live_animals
+Algeria,2015,10420,"Goats, live",Import,374402,36760,Number of items,747,01_live_animals
+Algeria,2015,10511,"Fowls, live domestic < 185 grams",Import,19807271,221547,Number of items,5255108,01_live_animals
+Algeria,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Import,5337508,101024,Number of items,1789998,01_live_animals
+Algeria,2015,10600,"Animals, live, except farm animals",Import,122728,71658,Number of items,16566,01_live_animals
+Algeria,2014,10111,"Horses, live pure-bred breeding",Export,20466,3100,Number of items,8,01_live_animals
+Algeria,2014,10111,"Horses, live pure-bred breeding",Import,18088109,199600,Number of items,447,01_live_animals
+Algeria,2014,10119,"Horses, live except pure-bred breeding",Import,36556,9200,Number of items,22,01_live_animals
+Algeria,2014,10290,"Bovine animals, live, except pure-bred breeding",Import,130145662,29539806,Number of items,5697918,01_live_animals
+Algeria,2014,10511,"Fowls, live domestic < 185 grams",Import,20161545,182108,Number of items,4315050,01_live_animals
+Algeria,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Import,6712198,114632,Number of items,1999408,01_live_animals
+Algeria,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Import,1310,30,Number of items,25,01_live_animals
+Algeria,2014,10600,"Animals, live, except farm animals",Import,45888,3810,Number of items,1666,01_live_animals
+Algeria,2013,10111,"Horses, live pure-bred breeding",Export,14163,300,Number of items,1,01_live_animals
+Algeria,2013,10111,"Horses, live pure-bred breeding",Import,1320711,167836,Number of items,432,01_live_animals
+Algeria,2013,10119,"Horses, live except pure-bred breeding",Import,64178,11564,Number of items,25,01_live_animals
+Algeria,2013,10290,"Bovine animals, live, except pure-bred breeding",Import,155527340,35829756,Number of items,2310077,01_live_animals
+Algeria,2013,10420,"Goats, live",Import,286631,26700,Number of items,586,01_live_animals
+Algeria,2013,10511,"Fowls, live domestic < 185 grams",Import,22931978,233666,Number of items,5698754,01_live_animals
+Algeria,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Import,9246735,216678,Number of items,4001534,01_live_animals
+Algeria,2013,10600,"Animals, live, except farm animals",Import,107218,3097,Number of items,1053,01_live_animals
+Algeria,2012,10111,"Horses, live pure-bred breeding",Export,71776,500,Number of items,1,01_live_animals
+Algeria,2012,10111,"Horses, live pure-bred breeding",Import,866706,72781,Number of items,154,01_live_animals
+Algeria,2012,10119,"Horses, live except pure-bred breeding",Import,76928,15081,Number of items,38,01_live_animals
+Algeria,2012,10210,"Bovine animals, live pure-bred breeding",Import,701799,127154,Number of items,225,01_live_animals
+Algeria,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,99630194,22679200,Number of items,942926,01_live_animals
+Algeria,2012,10410,"Sheep, live",Export,81365,11000,Number of items,11000,01_live_animals
+Algeria,2012,10420,"Goats, live",Import,98078,23500,Number of items,441,01_live_animals
+Algeria,2012,10511,"Fowls, live domestic < 185 grams",Import,19825389,240226,Number of items,6104411,01_live_animals
+Algeria,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Import,12173949,304568,Number of items,5268738,01_live_animals
+Algeria,2012,10600,"Animals, live, except farm animals",Import,53923,2135,Number of items,716,01_live_animals
+Algeria,2011,10111,"Horses, live pure-bred breeding",Import,667423,39690,Number of items,81,01_live_animals
+Algeria,2011,10119,"Horses, live except pure-bred breeding",Import,8271,2300,Number of items,5,01_live_animals
+Algeria,2011,10210,"Bovine animals, live pure-bred breeding",Import,691511,128745,Number of items,349,01_live_animals
+Algeria,2011,10290,"Bovine animals, live, except pure-bred breeding",Import,115274509,27030448,Number of items,112191,01_live_animals
+Algeria,2011,10511,"Fowls, live domestic < 185 grams",Import,17098767,172257,Number of items,4269224,01_live_animals
+Algeria,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Import,10242860,273504,Number of items,4690597,01_live_animals
+Algeria,2011,10600,"Animals, live, except farm animals",Import,81646,2573,Number of items,1066,01_live_animals
+Algeria,2010,10111,"Horses, live pure-bred breeding",Import,190657,28941,Number of items,65,01_live_animals
+Algeria,2010,10119,"Horses, live except pure-bred breeding",Import,9165,2245,Number of items,7,01_live_animals
+Algeria,2010,10210,"Bovine animals, live pure-bred breeding",Import,80132,18002,Number of items,32,01_live_animals
+Algeria,2010,10290,"Bovine animals, live, except pure-bred breeding",Import,77472714,19577786,Number of items,1725387,01_live_animals
+Algeria,2010,10410,"Sheep, live",Export,834,100,Number of items,2,01_live_animals
+Algeria,2010,10420,"Goats, live",Export,3024,140,Number of items,2,01_live_animals
+Algeria,2010,10511,"Fowls, live domestic < 185 grams",Import,16854785,178377,Number of items,4317888,01_live_animals
+Algeria,2010,10519,"Poultry, live except domestic fowls, < 185 grams",Import,7516690,262450,Number of items,4453326,01_live_animals
+Algeria,2010,10600,"Animals, live, except farm animals",Import,78007,2112,Number of items,678,01_live_animals
+Algeria,2010,10600,"Animals, live, except farm animals",Export,538,110,Number of items,1,01_live_animals
+Algeria,2009,10111,"Horses, live pure-bred breeding",Export,2858,450,Number of items,1,01_live_animals
+Algeria,2009,10111,"Horses, live pure-bred breeding",Import,216574,25313,Number of items,75,01_live_animals
+Algeria,2009,10119,"Horses, live except pure-bred breeding",Import,6061,1360,Number of items,4,01_live_animals
+Algeria,2009,10210,"Bovine animals, live pure-bred breeding",Import,981639,186742,Number of items,353000,01_live_animals
+Algeria,2009,10290,"Bovine animals, live, except pure-bred breeding",Import,43673794,10864167,Number of items,2426432,01_live_animals
+Algeria,2009,10391,"Swine, live except pure-bred breeding < 50 kg",Import,175,10,Number of items,2,01_live_animals
+Algeria,2009,10511,"Fowls, live domestic < 185 grams",Import,15343332,170662,Number of items,4216977,01_live_animals
+Algeria,2009,10519,"Poultry, live except domestic fowls, < 185 grams",Import,6826165,231387,Number of items,3898308,01_live_animals
+Algeria,2009,10591,"Fowls, live domestic > 185 grams",Import,68710,102063,Number of items,56940,01_live_animals
+Algeria,2009,10600,"Animals, live, except farm animals",Export,1995,845,Number of items,7680,01_live_animals
+Algeria,2009,10600,"Animals, live, except farm animals",Import,71686,1135,Number of items,20,01_live_animals
+Algeria,2008,10111,"Horses, live pure-bred breeding",Import,74605,12219,Number of items,102,01_live_animals
+Algeria,2008,10119,"Horses, live except pure-bred breeding",Export,51621,4500,Number of items,9,01_live_animals
+Algeria,2008,10290,"Bovine animals, live, except pure-bred breeding",Import,7635882,1884648,Number of items,766457,01_live_animals
+Algeria,2008,10511,"Fowls, live domestic < 185 grams",Import,14944922,136497,Number of items,3350570,01_live_animals
+Algeria,2008,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4832652,159428,Number of items,3259155,01_live_animals
+Algeria,2008,10591,"Fowls, live domestic > 185 grams",Import,56854,77616,Number of items,43120,01_live_animals
+Algeria,2008,10600,"Animals, live, except farm animals",Export,1348,915,Number of items,1010,01_live_animals
+Algeria,2008,10600,"Animals, live, except farm animals",Import,76667,3083,Number of items,8,01_live_animals
+Algeria,2007,10111,"Horses, live pure-bred breeding",Import,106795,45280,No Quantity,,01_live_animals
+Algeria,2007,10210,"Bovine animals, live pure-bred breeding",Import,90494,14191,Number of items,52,01_live_animals
+Algeria,2007,10290,"Bovine animals, live, except pure-bred breeding",Import,4406798,1461393,Number of items,6482,01_live_animals
+Algeria,2007,10410,"Sheep, live",Export,865,100,Number of items,14,01_live_animals
+Algeria,2007,10511,"Fowls, live domestic < 185 grams",Import,13007524,156063,No Quantity,,01_live_animals
+Algeria,2007,10519,"Poultry, live except domestic fowls, < 185 grams",Import,3735109,161423,No Quantity,,01_live_animals
+Algeria,2007,10591,"Fowls, live domestic > 185 grams",Import,77894,113148,Number of items,34624,01_live_animals
+Algeria,2007,10600,"Animals, live, except farm animals",Import,29552,90,No Quantity,,01_live_animals
+Algeria,2006,10119,"Horses, live except pure-bred breeding",Export,44550,3000,Number of items,10,01_live_animals
+Algeria,2006,10290,"Bovine animals, live, except pure-bred breeding",Import,19715193,7189019,Number of items,58817,01_live_animals
+Algeria,2006,10511,"Fowls, live domestic < 185 grams",Import,25303961,133605,Number of items,3420355,01_live_animals
+Algeria,2006,10519,"Poultry, live except domestic fowls, < 185 grams",Import,3144537,114138,Number of items,2004268,01_live_animals
+Algeria,2006,10591,"Fowls, live domestic > 185 grams",Import,294367,306340,Number of items,171300,01_live_animals
+Algeria,2006,10600,"Animals, live, except farm animals",Import,55714,2334,Number of items,22,01_live_animals
+Algeria,2005,10119,"Horses, live except pure-bred breeding",Export,56423,5800,Number of items,12,01_live_animals
+Algeria,2005,10210,"Bovine animals, live pure-bred breeding",Import,203205,61004,Number of items,106,01_live_animals
+Algeria,2005,10290,"Bovine animals, live, except pure-bred breeding",Import,33988284,12339879,Number of items,996813,01_live_animals
+Algeria,2005,10420,"Goats, live",Import,42567,450,Number of items,15,01_live_animals
+Algeria,2005,10511,"Fowls, live domestic < 185 grams",Import,10103099,142205,Number of items,3406204,01_live_animals
+Algeria,2005,10519,"Poultry, live except domestic fowls, < 185 grams",Import,6939632,228440,Number of items,4263908,01_live_animals
+Algeria,2005,10591,"Fowls, live domestic > 185 grams",Import,51624,69800,Number of items,45000,01_live_animals
+Algeria,2005,10599,"Poultry, live except domestic fowls, > 185 grams",Import,2470,120,Number of items,80,01_live_animals
+Algeria,2005,10600,"Animals, live, except farm animals",Import,2554,198,Number of items,312,01_live_animals
+Algeria,2004,10111,"Horses, live pure-bred breeding",Import,327402,43720,Number of items,69,01_live_animals
+Algeria,2004,10111,"Horses, live pure-bred breeding",Export,1290,400,Number of items,1,01_live_animals
+Algeria,2004,10119,"Horses, live except pure-bred breeding",Export,17461,1300,Number of items,4,01_live_animals
+Algeria,2004,10210,"Bovine animals, live pure-bred breeding",Import,1075297,365161,Number of items,787,01_live_animals
+Algeria,2004,10290,"Bovine animals, live, except pure-bred breeding",Import,67042656,25308330,Number of items,1508337,01_live_animals
+Algeria,2004,10420,"Goats, live",Import,47577,570,Number of items,15,01_live_animals
+Algeria,2004,10511,"Fowls, live domestic < 185 grams",Import,8672760,133903,Number of items,3150079,01_live_animals
+Algeria,2004,10519,"Poultry, live except domestic fowls, < 185 grams",Import,5224350,191912,Number of items,3648751,01_live_animals
+Algeria,2004,10591,"Fowls, live domestic > 185 grams",Import,134792,195462,Number of items,95282,01_live_animals
+Algeria,2004,10600,"Animals, live, except farm animals",Import,10775,578,Number of items,580,01_live_animals
+Algeria,2003,10111,"Horses, live pure-bred breeding",Import,767156,62399,No Quantity,,01_live_animals
+Algeria,2003,10210,"Bovine animals, live pure-bred breeding",Import,208197,93205,Number of items,163,01_live_animals
+Algeria,2003,10290,"Bovine animals, live, except pure-bred breeding",Import,14806821,6513128,Number of items,42161,01_live_animals
+Algeria,2003,10420,"Goats, live",Import,47629,740,No Quantity,,01_live_animals
+Algeria,2003,10511,"Fowls, live domestic < 185 grams",Import,8569278,149040,Number of items,2936327,01_live_animals
+Algeria,2003,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4176944,154908,No Quantity,,01_live_animals
+Algeria,2003,10591,"Fowls, live domestic > 185 grams",Import,56877,95156,No Quantity,,01_live_animals
+Algeria,2003,10600,"Animals, live, except farm animals",Import,404,25,No Quantity,,01_live_animals
+Algeria,2002,10111,"Horses, live pure-bred breeding",Import,75225,11500,No Quantity,,01_live_animals
+Algeria,2002,10111,"Horses, live pure-bred breeding",Export,11075,885,Number of items,1,01_live_animals
+Algeria,2002,10210,"Bovine animals, live pure-bred breeding",Import,52752,8000,Number of items,55,01_live_animals
+Algeria,2002,10290,"Bovine animals, live, except pure-bred breeding",Import,548364,157475,No Quantity,,01_live_animals
+Algeria,2002,10511,"Fowls, live domestic < 185 grams",Import,6114513,123786,Number of items,2879052,01_live_animals
+Algeria,2002,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1757456,123575,No Quantity,,01_live_animals
+Algeria,2002,10591,"Fowls, live domestic > 185 grams",Import,142186,242177,No Quantity,,01_live_animals
+Algeria,2002,10600,"Animals, live, except farm animals",Import,30585,6167,Number of items,659,01_live_animals
+Algeria,2001,10111,"Horses, live pure-bred breeding",Import,15794,2000,Number of items,2,01_live_animals
+Algeria,2001,10511,"Fowls, live domestic < 185 grams",Import,6453031,152698,Number of items,3353432,01_live_animals
+Algeria,2001,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1009640,85366,No Quantity,,01_live_animals
+Algeria,2001,10591,"Fowls, live domestic > 185 grams",Import,166978,272390,No Quantity,,01_live_animals
+Algeria,2001,10600,"Animals, live, except farm animals",Import,6131,139,No Quantity,,01_live_animals
+Algeria,2000,10111,"Horses, live pure-bred breeding",Import,198840,20800,No Quantity,,01_live_animals
+Algeria,2000,10290,"Bovine animals, live, except pure-bred breeding",Import,9458883,5159796,No Quantity,,01_live_animals
+Algeria,2000,10511,"Fowls, live domestic < 185 grams",Import,5804276,195117,Number of items,2311114,01_live_animals
+Algeria,2000,10519,"Poultry, live except domestic fowls, < 185 grams",Import,969809,75965,No Quantity,,01_live_animals
+Algeria,2000,10591,"Fowls, live domestic > 185 grams",Import,340027,501225,No Quantity,,01_live_animals
+Algeria,2000,10600,"Animals, live, except farm animals",Import,14253,211,No Quantity,,01_live_animals
+Algeria,1999,10111,"Horses, live pure-bred breeding",Import,277454,42839,Weight in kilograms,42839,01_live_animals
+Algeria,1999,10210,"Bovine animals, live pure-bred breeding",Import,183876,67277,Weight in kilograms,67277,01_live_animals
+Algeria,1999,10290,"Bovine animals, live, except pure-bred breeding",Import,24518530,11719776,Weight in kilograms,11719776,01_live_animals
+Algeria,1999,10511,"Fowls, live domestic < 185 grams",Import,6006484,135845,Weight in kilograms,135845,01_live_animals
+Algeria,1999,10519,"Poultry, live except domestic fowls, < 185 grams",Import,759330,39819,Weight in kilograms,39819,01_live_animals
+Algeria,1999,10591,"Fowls, live domestic > 185 grams",Import,137675,203386,Weight in kilograms,203386,01_live_animals
+Algeria,1999,10600,"Animals, live, except farm animals",Import,3814,43,Weight in kilograms,43,01_live_animals
+Algeria,1998,10111,"Horses, live pure-bred breeding",Import,50869,6812,Weight in kilograms,6812,01_live_animals
+Algeria,1998,10210,"Bovine animals, live pure-bred breeding",Import,111854,47500,Weight in kilograms,47500,01_live_animals
+Algeria,1998,10290,"Bovine animals, live, except pure-bred breeding",Import,20775256,9054979,Weight in kilograms,9054979,01_live_animals
+Algeria,1998,10420,"Goats, live",Import,5570,757,Weight in kilograms,757,01_live_animals
+Algeria,1998,10511,"Fowls, live domestic < 185 grams",Import,8201696,255126,Weight in kilograms,255126,01_live_animals
+Algeria,1998,10519,"Poultry, live except domestic fowls, < 185 grams",Import,682679,32959,Weight in kilograms,32959,01_live_animals
+Algeria,1998,10591,"Fowls, live domestic > 185 grams",Import,1431129,476627,Weight in kilograms,476627,01_live_animals
+Algeria,1998,10600,"Animals, live, except farm animals",Import,1131,20,Weight in kilograms,20,01_live_animals
+Algeria,1997,10210,"Bovine animals, live pure-bred breeding",Import,330903,166850,Weight in kilograms,166850,01_live_animals
+Algeria,1997,10290,"Bovine animals, live, except pure-bred breeding",Import,6660527,3052124,Weight in kilograms,3052124,01_live_animals
+Algeria,1997,10410,"Sheep, live",Import,49408,26960,Weight in kilograms,26960,01_live_animals
+Algeria,1997,10511,"Fowls, live domestic < 185 grams",Import,6754986,175591,Weight in kilograms,175591,01_live_animals
+Algeria,1997,10591,"Fowls, live domestic > 185 grams",Import,2283674,688693,Weight in kilograms,688693,01_live_animals
+Algeria,1997,10600,"Animals, live, except farm animals",Import,24300,68635,Weight in kilograms,68635,01_live_animals
+Algeria,1996,10111,"Horses, live pure-bred breeding",Import,7847,699,Weight in kilograms,699,01_live_animals
+Algeria,1996,10111,"Horses, live pure-bred breeding",Export,34651,3125,Weight in kilograms,3125,01_live_animals
+Algeria,1996,10210,"Bovine animals, live pure-bred breeding",Import,2476943,1305054,Weight in kilograms,1305054,01_live_animals
+Algeria,1996,10290,"Bovine animals, live, except pure-bred breeding",Import,9117847,4311842,Weight in kilograms,4311842,01_live_animals
+Algeria,1996,10410,"Sheep, live",Import,15040,32871,Weight in kilograms,32871,01_live_animals
+Algeria,1996,10511,"Fowls, live domestic < 185 grams",Import,7234774,173033,Weight in kilograms,173033,01_live_animals
+Algeria,1996,10519,"Poultry, live except domestic fowls, < 185 grams",Import,294,2187,Weight in kilograms,2187,01_live_animals
+Algeria,1996,10591,"Fowls, live domestic > 185 grams",Import,127076,84277,Weight in kilograms,84277,01_live_animals
+Algeria,1996,10599,"Poultry, live except domestic fowls, > 185 grams",Import,5845,7500,Weight in kilograms,7500,01_live_animals
+Algeria,1996,10600,"Animals, live, except farm animals",Import,26239,41979,Weight in kilograms,41979,01_live_animals
+Algeria,1995,10119,"Horses, live except pure-bred breeding",Import,14524,753,Weight in kilograms,753,01_live_animals
+Algeria,1995,10210,"Bovine animals, live pure-bred breeding",Import,2272888,1109125,Weight in kilograms,1109125,01_live_animals
+Algeria,1995,10290,"Bovine animals, live, except pure-bred breeding",Import,7456580,3890858,Weight in kilograms,3890858,01_live_animals
+Algeria,1995,10410,"Sheep, live",Import,29662,6125,Weight in kilograms,6125,01_live_animals
+Algeria,1995,10511,"Fowls, live domestic < 185 grams",Import,5100037,127235,Weight in kilograms,127235,01_live_animals
+Algeria,1995,10519,"Poultry, live except domestic fowls, < 185 grams",Import,54247,2438,Weight in kilograms,2438,01_live_animals
+Algeria,1995,10591,"Fowls, live domestic > 185 grams",Import,902270,237140,Weight in kilograms,237140,01_live_animals
+Algeria,1995,10600,"Animals, live, except farm animals",Import,11518,415,Weight in kilograms,415,01_live_animals
+Algeria,1994,10210,"Bovine animals, live pure-bred breeding",Import,11232776,4053741,Weight in kilograms,4053741,01_live_animals
+Algeria,1994,10290,"Bovine animals, live, except pure-bred breeding",Import,4437826,2100937,Weight in kilograms,2100937,01_live_animals
+Algeria,1994,10511,"Fowls, live domestic < 185 grams",Import,10825591,296801,Weight in kilograms,296801,01_live_animals
+Algeria,1994,10511,"Fowls, live domestic < 185 grams",Export,497664,68335,Weight in kilograms,68335,01_live_animals
+Algeria,1994,10519,"Poultry, live except domestic fowls, < 185 grams",Import,61813,1812,Weight in kilograms,1812,01_live_animals
+Algeria,1994,10591,"Fowls, live domestic > 185 grams",Import,106,9,Weight in kilograms,9,01_live_animals
+Algeria,1994,10600,"Animals, live, except farm animals",Import,1982,73,Weight in kilograms,73,01_live_animals
+Algeria,1994,10600,"Animals, live, except farm animals",Export,2501,921,Weight in kilograms,921,01_live_animals
+Algeria,1993,10111,"Horses, live pure-bred breeding",Import,165213,27761,Weight in kilograms,27761,01_live_animals
+Algeria,1993,10111,"Horses, live pure-bred breeding",Export,116962,9562,Weight in kilograms,9562,01_live_animals
+Algeria,1993,10119,"Horses, live except pure-bred breeding",Export,257,296,Weight in kilograms,296,01_live_animals
+Algeria,1993,10210,"Bovine animals, live pure-bred breeding",Import,8246934,4711186,Weight in kilograms,4711186,01_live_animals
+Algeria,1993,10410,"Sheep, live",Import,58819,12750,Weight in kilograms,12750,01_live_animals
+Algeria,1993,10511,"Fowls, live domestic < 185 grams",Import,13697184,406825,Weight in kilograms,406825,01_live_animals
+Algeria,1993,10511,"Fowls, live domestic < 185 grams",Export,741314,85535,Weight in kilograms,85535,01_live_animals
+Algeria,1993,10600,"Animals, live, except farm animals",Import,11444,250,Weight in kilograms,250,01_live_animals
+Algeria,1992,10111,"Horses, live pure-bred breeding",Import,5191,796,Weight in kilograms,796,01_live_animals
+Algeria,1992,10210,"Bovine animals, live pure-bred breeding",Import,13328583,7229812,Weight in kilograms,7229812,01_live_animals
+Algeria,1992,10290,"Bovine animals, live, except pure-bred breeding",Import,6767835,3824237,Weight in kilograms,3824237,01_live_animals
+Algeria,1992,10290,"Bovine animals, live, except pure-bred breeding",Export,1374,398,Weight in kilograms,398,01_live_animals
+Algeria,1992,10410,"Sheep, live",Import,15080731,9160492,Weight in kilograms,9160492,01_live_animals
+Algeria,1992,10511,"Fowls, live domestic < 185 grams",Import,10389165,891446,Weight in kilograms,891446,01_live_animals
+Algeria,1992,10511,"Fowls, live domestic < 185 grams",Export,389761,43815,Weight in kilograms,43815,01_live_animals
+Algeria,1992,10600,"Animals, live, except farm animals",Import,12184,597,Weight in kilograms,597,01_live_animals
+Algeria,1992,10600,"Animals, live, except farm animals",Export,7120,1503,Weight in kilograms,1503,01_live_animals
+Andorra,2014,10111,"Horses, live pure-bred breeding",Export,929,350,No Quantity,,01_live_animals
+Andorra,2014,10119,"Horses, live except pure-bred breeding",Import,21773,11810,No Quantity,,01_live_animals
+Andorra,2014,10119,"Horses, live except pure-bred breeding",Export,183632,131961,No Quantity,,01_live_animals
+Andorra,2014,10120,"Asses, mules and hinnies, live",Import,80,50,No Quantity,,01_live_animals
+Andorra,2014,10120,"Asses, mules and hinnies, live",Export,4514,2900,No Quantity,,01_live_animals
+Andorra,2014,10290,"Bovine animals, live, except pure-bred breeding",Import,9539,2600,Number of items,8,01_live_animals
+Andorra,2014,10290,"Bovine animals, live, except pure-bred breeding",Export,1336,1120,Number of items,1,01_live_animals
+Andorra,2014,10392,"Swine, live except pure-bred breeding > 50 kg",Import,6346,3400,Number of items,30,01_live_animals
+Andorra,2014,10410,"Sheep, live",Import,22689,15373,Number of items,206,01_live_animals
+Andorra,2014,10410,"Sheep, live",Export,9241,4550,Number of items,94,01_live_animals
+Andorra,2014,10511,"Fowls, live domestic < 185 grams",Import,22701,2024,No Quantity,,01_live_animals
+Andorra,2014,10591,"Fowls, live domestic > 185 grams",Import,3953,1100,Number of items,1191,01_live_animals
+Andorra,2014,10600,"Animals, live, except farm animals",Export,664,300,No Quantity,,01_live_animals
+Andorra,2014,10600,"Animals, live, except farm animals",Import,50745,3689,No Quantity,,01_live_animals
+Andorra,2013,10111,"Horses, live pure-bred breeding",Export,1116,780,No Quantity,,01_live_animals
+Andorra,2013,10119,"Horses, live except pure-bred breeding",Export,53019,34515,No Quantity,,01_live_animals
+Andorra,2013,10119,"Horses, live except pure-bred breeding",Import,19244,4820,Number of items,2,01_live_animals
+Andorra,2013,10120,"Asses, mules and hinnies, live",Export,6161,3680,No Quantity,,01_live_animals
+Andorra,2013,10120,"Asses, mules and hinnies, live",Import,1463,1050,No Quantity,,01_live_animals
+Andorra,2013,10290,"Bovine animals, live, except pure-bred breeding",Import,18834,4958,Number of items,20,01_live_animals
+Andorra,2013,10391,"Swine, live except pure-bred breeding < 50 kg",Import,460,130,No Quantity,,01_live_animals
+Andorra,2013,10392,"Swine, live except pure-bred breeding > 50 kg",Import,5254,2582,Number of items,27,01_live_animals
+Andorra,2013,10410,"Sheep, live",Import,36812,9808,Number of items,377,01_live_animals
+Andorra,2013,10420,"Goats, live",Import,17440,485,Number of items,197,01_live_animals
+Andorra,2013,10511,"Fowls, live domestic < 185 grams",Import,26373,5260,Number of items,7828,01_live_animals
+Andorra,2013,10600,"Animals, live, except farm animals",Import,65042,4288,No Quantity,,01_live_animals
+Andorra,2012,10111,"Horses, live pure-bred breeding",Export,2314,1400,No Quantity,,01_live_animals
+Andorra,2012,10111,"Horses, live pure-bred breeding",Import,1800,200,No Quantity,,01_live_animals
+Andorra,2012,10119,"Horses, live except pure-bred breeding",Export,29116,25630,No Quantity,,01_live_animals
+Andorra,2012,10119,"Horses, live except pure-bred breeding",Re-Import,2121,1580,Number of items,0,01_live_animals
+Andorra,2012,10119,"Horses, live except pure-bred breeding",Import,13432,7930,Number of items,1,01_live_animals
+Andorra,2012,10120,"Asses, mules and hinnies, live",Export,5849,3860,No Quantity,,01_live_animals
+Andorra,2012,10120,"Asses, mules and hinnies, live",Import,1136,350,No Quantity,,01_live_animals
+Andorra,2012,10290,"Bovine animals, live, except pure-bred breeding",Export,578,530,Number of items,1,01_live_animals
+Andorra,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,27401,13843,Number of items,29,01_live_animals
+Andorra,2012,10310,"Swine, live pure-bred breeding",Import,257,180,Number of items,0,01_live_animals
+Andorra,2012,10391,"Swine, live except pure-bred breeding < 50 kg",Import,8213,3780,No Quantity,,01_live_animals
+Andorra,2012,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1075,540,Number of items,6,01_live_animals
+Andorra,2012,10410,"Sheep, live",Import,10675,4185,Number of items,109,01_live_animals
+Andorra,2012,10511,"Fowls, live domestic < 185 grams",Import,23891,6277,Number of items,7091,01_live_animals
+Andorra,2012,10600,"Animals, live, except farm animals",Import,60499,2849,No Quantity,,01_live_animals
+Andorra,2011,10111,"Horses, live pure-bred breeding",Import,7155,3750,No Quantity,,01_live_animals
+Andorra,2011,10111,"Horses, live pure-bred breeding",Export,8087,7750,Number of items,1,01_live_animals
+Andorra,2011,10119,"Horses, live except pure-bred breeding",Export,53827,39290,No Quantity,,01_live_animals
+Andorra,2011,10119,"Horses, live except pure-bred breeding",Import,16555,7460,No Quantity,,01_live_animals
+Andorra,2011,10210,"Bovine animals, live pure-bred breeding",Import,2779,400,Number of items,1,01_live_animals
+Andorra,2011,10290,"Bovine animals, live, except pure-bred breeding",Import,68326,28820,Number of items,74,01_live_animals
+Andorra,2011,10391,"Swine, live except pure-bred breeding < 50 kg",Import,6212,2830,Number of items,90,01_live_animals
+Andorra,2011,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1645,902,Number of items,9,01_live_animals
+Andorra,2011,10410,"Sheep, live",Import,23982,9400,No Quantity,,01_live_animals
+Andorra,2011,10420,"Goats, live",Export,6285,3765,No Quantity,,01_live_animals
+Andorra,2011,10420,"Goats, live",Import,1963,800,No Quantity,,01_live_animals
+Andorra,2011,10511,"Fowls, live domestic < 185 grams",Import,28284,10403,Number of items,8279,01_live_animals
+Andorra,2011,10600,"Animals, live, except farm animals",Import,53598,3218,No Quantity,,01_live_animals
+Andorra,2010,10111,"Horses, live pure-bred breeding",Export,4755,3250,No Quantity,,01_live_animals
+Andorra,2010,10111,"Horses, live pure-bred breeding",Import,598,150,No Quantity,,01_live_animals
+Andorra,2010,10119,"Horses, live except pure-bred breeding",Export,77738,57829,No Quantity,,01_live_animals
+Andorra,2010,10119,"Horses, live except pure-bred breeding",Import,39953,15120,No Quantity,,01_live_animals
+Andorra,2010,10210,"Bovine animals, live pure-bred breeding",Import,1196,600,Number of items,1,01_live_animals
+Andorra,2010,10290,"Bovine animals, live, except pure-bred breeding",Export,10514,7625,Number of items,13,01_live_animals
+Andorra,2010,10290,"Bovine animals, live, except pure-bred breeding",Import,200363,85339,Number of items,252,01_live_animals
+Andorra,2010,10392,"Swine, live except pure-bred breeding > 50 kg",Import,6339,2941,Number of items,32,01_live_animals
+Andorra,2010,10410,"Sheep, live",Import,23847,7505,Number of items,314,01_live_animals
+Andorra,2010,10420,"Goats, live",Export,528,300,No Quantity,,01_live_animals
+Andorra,2010,10420,"Goats, live",Import,2855,960,Number of items,44,01_live_animals
+Andorra,2010,10511,"Fowls, live domestic < 185 grams",Import,32039,6292,Number of items,9301,01_live_animals
+Andorra,2010,10591,"Fowls, live domestic > 185 grams",Import,21963,200,No Quantity,,01_live_animals
+Andorra,2010,10600,"Animals, live, except farm animals",Import,23475,1067,No Quantity,,01_live_animals
+Andorra,2009,10111,"Horses, live pure-bred breeding",Import,8738,6250,No Quantity,,01_live_animals
+Andorra,2009,10111,"Horses, live pure-bred breeding",Export,8576,7650,No Quantity,,01_live_animals
+Andorra,2009,10119,"Horses, live except pure-bred breeding",Import,20341,9550,No Quantity,,01_live_animals
+Andorra,2009,10119,"Horses, live except pure-bred breeding",Export,102844,57730,No Quantity,,01_live_animals
+Andorra,2009,10210,"Bovine animals, live pure-bred breeding",Import,2095,600,Number of items,1,01_live_animals
+Andorra,2009,10210,"Bovine animals, live pure-bred breeding",Export,7809,3000,Number of items,3,01_live_animals
+Andorra,2009,10290,"Bovine animals, live, except pure-bred breeding",Import,15639,6560,Number of items,17,01_live_animals
+Andorra,2009,10290,"Bovine animals, live, except pure-bred breeding",Export,976,400,Number of items,1,01_live_animals
+Andorra,2009,10391,"Swine, live except pure-bred breeding < 50 kg",Import,421,214,Number of items,5,01_live_animals
+Andorra,2009,10392,"Swine, live except pure-bred breeding > 50 kg",Import,6145,2668,Number of items,29,01_live_animals
+Andorra,2009,10410,"Sheep, live",Import,17687,3690,Number of items,214,01_live_animals
+Andorra,2009,10410,"Sheep, live",Export,276,955,Number of items,4,01_live_animals
+Andorra,2009,10420,"Goats, live",Import,489,80,No Quantity,,01_live_animals
+Andorra,2009,10420,"Goats, live",Export,502,100,No Quantity,,01_live_animals
+Andorra,2009,10511,"Fowls, live domestic < 185 grams",Import,32861,4994,Number of items,10521,01_live_animals
+Andorra,2009,10599,"Poultry, live except domestic fowls, > 185 grams",Import,1321,50,Number of items,122,01_live_animals
+Andorra,2009,10600,"Animals, live, except farm animals",Import,66619,1347,No Quantity,,01_live_animals
+Andorra,2008,10111,"Horses, live pure-bred breeding",Import,31597,2890,No Quantity,,01_live_animals
+Andorra,2008,10111,"Horses, live pure-bred breeding",Export,78435,32970,No Quantity,,01_live_animals
+Andorra,2008,10119,"Horses, live except pure-bred breeding",Import,54365,16240,No Quantity,,01_live_animals
+Andorra,2008,10119,"Horses, live except pure-bred breeding",Export,90939,37845,No Quantity,,01_live_animals
+Andorra,2008,10210,"Bovine animals, live pure-bred breeding",Export,2216,810,Number of items,1,01_live_animals
+Andorra,2008,10290,"Bovine animals, live, except pure-bred breeding",Import,32041,10455,Number of items,41,01_live_animals
+Andorra,2008,10290,"Bovine animals, live, except pure-bred breeding",Export,4729,1450,Number of items,6,01_live_animals
+Andorra,2008,10391,"Swine, live except pure-bred breeding < 50 kg",Import,600,422,Number of items,10,01_live_animals
+Andorra,2008,10392,"Swine, live except pure-bred breeding > 50 kg",Import,6773,2665,Number of items,39,01_live_animals
+Andorra,2008,10410,"Sheep, live",Import,18477,4715,Number of items,236,01_live_animals
+Andorra,2008,10410,"Sheep, live",Export,425,120,Number of items,6,01_live_animals
+Andorra,2008,10420,"Goats, live",Export,148,80,No Quantity,,01_live_animals
+Andorra,2008,10420,"Goats, live",Import,367,100,Number of items,5,01_live_animals
+Andorra,2008,10511,"Fowls, live domestic < 185 grams",Import,30722,3976,Number of items,13561,01_live_animals
+Andorra,2008,10600,"Animals, live, except farm animals",Import,90339,4161,No Quantity,,01_live_animals
+Andorra,2007,10111,"Horses, live pure-bred breeding",Import,15733,2260,No Quantity,,01_live_animals
+Andorra,2007,10111,"Horses, live pure-bred breeding",Export,11587,10840,No Quantity,,01_live_animals
+Andorra,2007,10119,"Horses, live except pure-bred breeding",Import,148614,24695,No Quantity,,01_live_animals
+Andorra,2007,10119,"Horses, live except pure-bred breeding",Export,102557,38582,No Quantity,,01_live_animals
+Andorra,2007,10210,"Bovine animals, live pure-bred breeding",Import,824,350,Number of items,0,01_live_animals
+Andorra,2007,10290,"Bovine animals, live, except pure-bred breeding",Import,56423,13730,Number of items,83,01_live_animals
+Andorra,2007,10392,"Swine, live except pure-bred breeding > 50 kg",Import,9432,4547,Number of items,57,01_live_animals
+Andorra,2007,10410,"Sheep, live",Import,31327,8011,Number of items,354,01_live_animals
+Andorra,2007,10410,"Sheep, live",Export,1730,2520,Number of items,27,01_live_animals
+Andorra,2007,10420,"Goats, live",Export,741,330,No Quantity,,01_live_animals
+Andorra,2007,10420,"Goats, live",Import,1064,345,Number of items,15,01_live_animals
+Andorra,2007,10511,"Fowls, live domestic < 185 grams",Import,32002,4138,No Quantity,,01_live_animals
+Andorra,2007,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1098,160,Number of items,273,01_live_animals
+Andorra,2007,10600,"Animals, live, except farm animals",Import,169640,6133,No Quantity,,01_live_animals
+Andorra,2006,10111,"Horses, live pure-bred breeding",Import,15642,887,No Quantity,,01_live_animals
+Andorra,2006,10111,"Horses, live pure-bred breeding",Export,13005,6350,Number of items,1,01_live_animals
+Andorra,2006,10119,"Horses, live except pure-bred breeding",Import,41594,23220,Number of items,4,01_live_animals
+Andorra,2006,10119,"Horses, live except pure-bred breeding",Export,137118,76200,Number of items,22,01_live_animals
+Andorra,2006,10210,"Bovine animals, live pure-bred breeding",Import,7417,1450,No Quantity,,01_live_animals
+Andorra,2006,10290,"Bovine animals, live, except pure-bred breeding",Import,52978,27060,Number of items,158,01_live_animals
+Andorra,2006,10290,"Bovine animals, live, except pure-bred breeding",Export,4218,4000,Number of items,9,01_live_animals
+Andorra,2006,10391,"Swine, live except pure-bred breeding < 50 kg",Import,2495,2420,No Quantity,,01_live_animals
+Andorra,2006,10392,"Swine, live except pure-bred breeding > 50 kg",Import,3473,1820,No Quantity,,01_live_animals
+Andorra,2006,10410,"Sheep, live",Import,19288,4875,No Quantity,,01_live_animals
+Andorra,2006,10410,"Sheep, live",Export,16429,10475,No Quantity,,01_live_animals
+Andorra,2006,10511,"Fowls, live domestic < 185 grams",Import,1445,204,Number of items,540,01_live_animals
+Andorra,2006,10591,"Fowls, live domestic > 185 grams",Import,22332,3639,No Quantity,,01_live_animals
+Andorra,2006,10600,"Animals, live, except farm animals",Import,71087,3685,No Quantity,,01_live_animals
+Andorra,2005,10111,"Horses, live pure-bred breeding",Export,8135,7000,Number of items,1,01_live_animals
+Andorra,2005,10119,"Horses, live except pure-bred breeding",Export,127145,62030,Number of items,20,01_live_animals
+Andorra,2005,10210,"Bovine animals, live pure-bred breeding",Export,3712,6750,Number of items,3,01_live_animals
+Andorra,2005,10290,"Bovine animals, live, except pure-bred breeding",Export,1495,500,Number of items,3,01_live_animals
+Andorra,2005,10410,"Sheep, live",Export,1009,945,No Quantity,,01_live_animals
+Andorra,2004,10111,"Horses, live pure-bred breeding",Import,3301,450,No Quantity,,01_live_animals
+Andorra,2004,10111,"Horses, live pure-bred breeding",Export,2122,1210,Number of items,0,01_live_animals
+Andorra,2004,10119,"Horses, live except pure-bred breeding",Import,55647,12410,Number of items,5,01_live_animals
+Andorra,2004,10119,"Horses, live except pure-bred breeding",Export,119532,66650,Number of items,19,01_live_animals
+Andorra,2004,10210,"Bovine animals, live pure-bred breeding",Import,7194,3100,No Quantity,,01_live_animals
+Andorra,2004,10210,"Bovine animals, live pure-bred breeding",Export,1800,1600,Number of items,1,01_live_animals
+Andorra,2004,10290,"Bovine animals, live, except pure-bred breeding",Import,175208,60545,Number of items,523,01_live_animals
+Andorra,2004,10290,"Bovine animals, live, except pure-bred breeding",Export,51880,27550,Number of items,106,01_live_animals
+Andorra,2004,10391,"Swine, live except pure-bred breeding < 50 kg",Import,9160,4405,No Quantity,,01_live_animals
+Andorra,2004,10392,"Swine, live except pure-bred breeding > 50 kg",Import,2609,1750,No Quantity,,01_live_animals
+Andorra,2004,10410,"Sheep, live",Import,17084,5910,No Quantity,,01_live_animals
+Andorra,2004,10410,"Sheep, live",Export,2509,2110,No Quantity,,01_live_animals
+Andorra,2004,10591,"Fowls, live domestic > 185 grams",Import,21175,5435,No Quantity,,01_live_animals
+Andorra,2004,10600,"Animals, live, except farm animals",Import,141249,9214,No Quantity,,01_live_animals
+Andorra,2004,10600,"Animals, live, except farm animals",Export,1378,72,No Quantity,,01_live_animals
+Andorra,2003,10111,"Horses, live pure-bred breeding",Import,13742,5021,No Quantity,,01_live_animals
+Andorra,2003,10111,"Horses, live pure-bred breeding",Export,10779,5475,Number of items,1,01_live_animals
+Andorra,2003,10119,"Horses, live except pure-bred breeding",Import,41190,20150,Number of items,4,01_live_animals
+Andorra,2003,10119,"Horses, live except pure-bred breeding",Export,110005,72435,Number of items,13,01_live_animals
+Andorra,2003,10210,"Bovine animals, live pure-bred breeding",Import,8379,3800,Number of items,7,01_live_animals
+Andorra,2003,10210,"Bovine animals, live pure-bred breeding",Export,1359,700,Number of items,1,01_live_animals
+Andorra,2003,10290,"Bovine animals, live, except pure-bred breeding",Import,49620,29080,Number of items,141,01_live_animals
+Andorra,2003,10391,"Swine, live except pure-bred breeding < 50 kg",Import,1868,750,No Quantity,,01_live_animals
+Andorra,2003,10392,"Swine, live except pure-bred breeding > 50 kg",Import,7959,5395,No Quantity,,01_live_animals
+Andorra,2003,10410,"Sheep, live",Import,13999,4763,No Quantity,,01_live_animals
+Andorra,2003,10410,"Sheep, live",Export,1087,260,Number of items,23,01_live_animals
+Andorra,2003,10420,"Goats, live",Import,408,32,No Quantity,,01_live_animals
+Andorra,2003,10511,"Fowls, live domestic < 185 grams",Import,619,328,Number of items,212,01_live_animals
+Andorra,2003,10591,"Fowls, live domestic > 185 grams",Import,15170,6135,No Quantity,,01_live_animals
+Andorra,2003,10600,"Animals, live, except farm animals",Import,259420,25184,No Quantity,,01_live_animals
+Andorra,2003,10600,"Animals, live, except farm animals",Export,8474,400,No Quantity,,01_live_animals
+Andorra,2002,10111,"Horses, live pure-bred breeding",Import,2636,1350,No Quantity,,01_live_animals
+Andorra,2002,10111,"Horses, live pure-bred breeding",Export,14744,8760,Number of items,1,01_live_animals
+Andorra,2002,10119,"Horses, live except pure-bred breeding",Import,13069,7865,Number of items,1,01_live_animals
+Andorra,2002,10119,"Horses, live except pure-bred breeding",Export,97577,83820,Number of items,12,01_live_animals
+Andorra,2002,10210,"Bovine animals, live pure-bred breeding",Import,61980,56210,Number of items,65,01_live_animals
+Andorra,2002,10290,"Bovine animals, live, except pure-bred breeding",Import,135669,69683,No Quantity,,01_live_animals
+Andorra,2002,10290,"Bovine animals, live, except pure-bred breeding",Export,8411,7100,Number of items,19,01_live_animals
+Andorra,2002,10391,"Swine, live except pure-bred breeding < 50 kg",Import,1667,911,No Quantity,,01_live_animals
+Andorra,2002,10392,"Swine, live except pure-bred breeding > 50 kg",Import,5410,5318,No Quantity,,01_live_animals
+Andorra,2002,10410,"Sheep, live",Import,22990,12400,No Quantity,,01_live_animals
+Andorra,2002,10420,"Goats, live",Import,920,280,No Quantity,,01_live_animals
+Andorra,2002,10511,"Fowls, live domestic < 185 grams",Import,2355,1578,Number of items,1109,01_live_animals
+Andorra,2002,10591,"Fowls, live domestic > 185 grams",Import,15414,4858,No Quantity,,01_live_animals
+Andorra,2002,10599,"Poultry, live except domestic fowls, > 185 grams",Import,366,130,No Quantity,,01_live_animals
+Andorra,2002,10600,"Animals, live, except farm animals",Import,81890,7609,No Quantity,,01_live_animals
+Andorra,2001,10111,"Horses, live pure-bred breeding",Import,1376,950,Number of items,0,01_live_animals
+Andorra,2001,10111,"Horses, live pure-bred breeding",Export,1504,800,Number of items,0,01_live_animals
+Andorra,2001,10119,"Horses, live except pure-bred breeding",Import,19297,11035,No Quantity,,01_live_animals
+Andorra,2001,10119,"Horses, live except pure-bred breeding",Export,125721,127460,Number of items,13,01_live_animals
+Andorra,2001,10120,"Asses, mules and hinnies, live",Import,410,250,No Quantity,,01_live_animals
+Andorra,2001,10210,"Bovine animals, live pure-bred breeding",Import,1201,470,No Quantity,,01_live_animals
+Andorra,2001,10290,"Bovine animals, live, except pure-bred breeding",Import,326806,219703,No Quantity,,01_live_animals
+Andorra,2001,10392,"Swine, live except pure-bred breeding > 50 kg",Import,8780,5204,No Quantity,,01_live_animals
+Andorra,2001,10410,"Sheep, live",Import,137944,53868,No Quantity,,01_live_animals
+Andorra,2001,10410,"Sheep, live",Export,9605,3730,Number of items,286,01_live_animals
+Andorra,2001,10420,"Goats, live",Import,8900,1983,No Quantity,,01_live_animals
+Andorra,2001,10591,"Fowls, live domestic > 185 grams",Import,16139,4391,No Quantity,,01_live_animals
+Andorra,2001,10600,"Animals, live, except farm animals",Import,57383,9064,No Quantity,,01_live_animals
+Andorra,2000,10111,"Horses, live pure-bred breeding",Import,2446,1850,No Quantity,,01_live_animals
+Andorra,2000,10111,"Horses, live pure-bred breeding",Export,2256,1450,Number of items,0,01_live_animals
+Andorra,2000,10119,"Horses, live except pure-bred breeding",Export,174591,153449,No Quantity,,01_live_animals
+Andorra,2000,10119,"Horses, live except pure-bred breeding",Import,21100,12561,Number of items,2,01_live_animals
+Andorra,2000,10120,"Asses, mules and hinnies, live",Export,486,525,No Quantity,,01_live_animals
+Andorra,2000,10210,"Bovine animals, live pure-bred breeding",Import,35702,13810,No Quantity,,01_live_animals
+Andorra,2000,10210,"Bovine animals, live pure-bred breeding",Export,883,330,Number of items,1,01_live_animals
+Andorra,2000,10290,"Bovine animals, live, except pure-bred breeding",Import,794958,654122,No Quantity,,01_live_animals
+Andorra,2000,10290,"Bovine animals, live, except pure-bred breeding",Export,105323,49720,Number of items,266,01_live_animals
+Andorra,2000,10391,"Swine, live except pure-bred breeding < 50 kg",Import,409,360,No Quantity,,01_live_animals
+Andorra,2000,10392,"Swine, live except pure-bred breeding > 50 kg",Import,9070,8358,No Quantity,,01_live_animals
+Andorra,2000,10410,"Sheep, live",Import,725127,347787,No Quantity,,01_live_animals
+Andorra,2000,10420,"Goats, live",Import,61925,15391,No Quantity,,01_live_animals
+Andorra,2000,10511,"Fowls, live domestic < 185 grams",Import,110,81,Number of items,44,01_live_animals
+Andorra,2000,10519,"Poultry, live except domestic fowls, < 185 grams",Import,66,8,No Quantity,,01_live_animals
+Andorra,2000,10591,"Fowls, live domestic > 185 grams",Import,12123,4002,No Quantity,,01_live_animals
+Andorra,2000,10600,"Animals, live, except farm animals",Import,193068,16702,No Quantity,,01_live_animals
+Andorra,2000,10600,"Animals, live, except farm animals",Export,3092,700,No Quantity,,01_live_animals
+Andorra,1999,10111,"Horses, live pure-bred breeding",Import,1617,4187,Weight in kilograms,4187,01_live_animals
+Andorra,1999,10111,"Horses, live pure-bred breeding",Export,895,796,Weight in kilograms,796,01_live_animals
+Andorra,1999,10119,"Horses, live except pure-bred breeding",Import,34461,11437,Weight in kilograms,11437,01_live_animals
+Andorra,1999,10119,"Horses, live except pure-bred breeding",Export,99888,97573,Weight in kilograms,97573,01_live_animals
+Andorra,1999,10120,"Asses, mules and hinnies, live",Import,1086,500,Weight in kilograms,500,01_live_animals
+Andorra,1999,10120,"Asses, mules and hinnies, live",Export,1662,3687,Weight in kilograms,3687,01_live_animals
+Andorra,1999,10290,"Bovine animals, live, except pure-bred breeding",Import,225983,141643,Weight in kilograms,141643,01_live_animals
+Andorra,1999,10290,"Bovine animals, live, except pure-bred breeding",Export,158506,64585,Weight in kilograms,64585,01_live_animals
+Andorra,1999,10391,"Swine, live except pure-bred breeding < 50 kg",Import,1138,1062,Weight in kilograms,1062,01_live_animals
+Andorra,1999,10392,"Swine, live except pure-bred breeding > 50 kg",Import,10868,10000,Weight in kilograms,10000,01_live_animals
+Andorra,1999,10410,"Sheep, live",Import,912585,372097,Weight in kilograms,372097,01_live_animals
+Andorra,1999,10410,"Sheep, live",Export,17537,10562,Weight in kilograms,10562,01_live_animals
+Andorra,1999,10420,"Goats, live",Import,77747,15000,Weight in kilograms,15000,01_live_animals
+Andorra,1999,10591,"Fowls, live domestic > 185 grams",Import,12991,5191,Weight in kilograms,5191,01_live_animals
+Andorra,1999,10600,"Animals, live, except farm animals",Import,152047,11999,Weight in kilograms,11999,01_live_animals
+Andorra,1998,10111,"Horses, live pure-bred breeding",Import,8688,3312,Weight in kilograms,3312,01_live_animals
+Andorra,1998,10111,"Horses, live pure-bred breeding",Export,2175,2062,Weight in kilograms,2062,01_live_animals
+Andorra,1998,10119,"Horses, live except pure-bred breeding",Import,101201,41074,Weight in kilograms,41074,01_live_animals
+Andorra,1998,10119,"Horses, live except pure-bred breeding",Export,84949,54449,Weight in kilograms,54449,01_live_animals
+Andorra,1998,10120,"Asses, mules and hinnies, live",Import,5689,4125,Weight in kilograms,4125,01_live_animals
+Andorra,1998,10120,"Asses, mules and hinnies, live",Export,937,500,Weight in kilograms,500,01_live_animals
+Andorra,1998,10210,"Bovine animals, live pure-bred breeding",Import,23340,9999,Weight in kilograms,9999,01_live_animals
+Andorra,1998,10210,"Bovine animals, live pure-bred breeding",Export,4919,4187,Weight in kilograms,4187,01_live_animals
+Andorra,1998,10290,"Bovine animals, live, except pure-bred breeding",Import,23059,11187,Weight in kilograms,11187,01_live_animals
+Andorra,1998,10290,"Bovine animals, live, except pure-bred breeding",Export,225007,96003,Weight in kilograms,96003,01_live_animals
+Andorra,1998,10392,"Swine, live except pure-bred breeding > 50 kg",Import,10883,7999,Weight in kilograms,7999,01_live_animals
+Andorra,1998,10410,"Sheep, live",Import,732286,275562,Weight in kilograms,275562,01_live_animals
+Andorra,1998,10410,"Sheep, live",Export,153,50,Weight in kilograms,50,01_live_animals
+Andorra,1998,10420,"Goats, live",Import,44606,18300,Weight in kilograms,18300,01_live_animals
+Andorra,1998,10511,"Fowls, live domestic < 185 grams",Import,3848,1062,Weight in kilograms,1062,01_live_animals
+Andorra,1998,10519,"Poultry, live except domestic fowls, < 185 grams",Import,729,236,Weight in kilograms,236,01_live_animals
+Andorra,1998,10591,"Fowls, live domestic > 185 grams",Import,10601,6545,Weight in kilograms,6545,01_live_animals
+Andorra,1998,10599,"Poultry, live except domestic fowls, > 185 grams",Import,582,562,Weight in kilograms,562,01_live_animals
+Andorra,1998,10600,"Animals, live, except farm animals",Import,84232,4812,Weight in kilograms,4812,01_live_animals
+Andorra,1997,10111,"Horses, live pure-bred breeding",Import,9076,2812,Weight in kilograms,2812,01_live_animals
+Andorra,1997,10119,"Horses, live except pure-bred breeding",Import,28917,12624,Weight in kilograms,12624,01_live_animals
+Andorra,1997,10119,"Horses, live except pure-bred breeding",Export,66387,46679,Weight in kilograms,46679,01_live_animals
+Andorra,1997,10120,"Asses, mules and hinnies, live",Import,348,148,Weight in kilograms,148,01_live_animals
+Andorra,1997,10290,"Bovine animals, live, except pure-bred breeding",Import,9220,5437,Weight in kilograms,5437,01_live_animals
+Andorra,1997,10290,"Bovine animals, live, except pure-bred breeding",Export,275315,109085,Weight in kilograms,109085,01_live_animals
+Andorra,1997,10391,"Swine, live except pure-bred breeding < 50 kg",Import,204,105,Weight in kilograms,105,01_live_animals
+Andorra,1997,10392,"Swine, live except pure-bred breeding > 50 kg",Import,18406,10440,Weight in kilograms,10440,01_live_animals
+Andorra,1997,10410,"Sheep, live",Import,1160974,384187,Weight in kilograms,384187,01_live_animals
+Andorra,1997,10420,"Goats, live",Import,42577,8750,Weight in kilograms,8750,01_live_animals
+Andorra,1997,10511,"Fowls, live domestic < 185 grams",Import,3141,1750,Weight in kilograms,1750,01_live_animals
+Andorra,1997,10519,"Poultry, live except domestic fowls, < 185 grams",Import,225,97,Weight in kilograms,97,01_live_animals
+Andorra,1997,10591,"Fowls, live domestic > 185 grams",Import,10722,3937,Weight in kilograms,3937,01_live_animals
+Andorra,1997,10599,"Poultry, live except domestic fowls, > 185 grams",Import,129,30,Weight in kilograms,30,01_live_animals
+Andorra,1997,10600,"Animals, live, except farm animals",Import,76891,5315,Weight in kilograms,5315,01_live_animals
+Andorra,1997,10600,"Animals, live, except farm animals",Export,1195,558,Weight in kilograms,558,01_live_animals
+Andorra,1996,10111,"Horses, live pure-bred breeding",Import,4136,1687,Weight in kilograms,1687,01_live_animals
+Andorra,1996,10111,"Horses, live pure-bred breeding",Export,3646,1773,Weight in kilograms,1773,01_live_animals
+Andorra,1996,10119,"Horses, live except pure-bred breeding",Import,30805,14750,Weight in kilograms,14750,01_live_animals
+Andorra,1996,10119,"Horses, live except pure-bred breeding",Export,120446,72738,Weight in kilograms,72738,01_live_animals
+Andorra,1996,10120,"Asses, mules and hinnies, live",Export,2763,1812,Weight in kilograms,1812,01_live_animals
+Andorra,1996,10210,"Bovine animals, live pure-bred breeding",Import,51380,25448,Weight in kilograms,25448,01_live_animals
+Andorra,1996,10290,"Bovine animals, live, except pure-bred breeding",Import,24711,9375,Weight in kilograms,9375,01_live_animals
+Andorra,1996,10290,"Bovine animals, live, except pure-bred breeding",Export,395446,185410,Weight in kilograms,185410,01_live_animals
+Andorra,1996,10391,"Swine, live except pure-bred breeding < 50 kg",Import,394,250,Weight in kilograms,250,01_live_animals
+Andorra,1996,10392,"Swine, live except pure-bred breeding > 50 kg",Import,15047,12371,Weight in kilograms,12371,01_live_animals
+Andorra,1996,10410,"Sheep, live",Import,1409025,431812,Weight in kilograms,431812,01_live_animals
+Andorra,1996,10420,"Goats, live",Import,28595,4500,Weight in kilograms,4500,01_live_animals
+Andorra,1996,10511,"Fowls, live domestic < 185 grams",Import,3687,1187,Weight in kilograms,1187,01_live_animals
+Andorra,1996,10519,"Poultry, live except domestic fowls, < 185 grams",Import,173,44,Weight in kilograms,44,01_live_animals
+Andorra,1996,10591,"Fowls, live domestic > 185 grams",Import,15449,6574,Weight in kilograms,6574,01_live_animals
+Andorra,1996,10599,"Poultry, live except domestic fowls, > 185 grams",Import,2281,261,Weight in kilograms,261,01_live_animals
+Andorra,1996,10600,"Animals, live, except farm animals",Import,74092,4002,Weight in kilograms,4002,01_live_animals
+Andorra,1996,10600,"Animals, live, except farm animals",Export,750,250,Weight in kilograms,250,01_live_animals
+Andorra,1995,10111,"Horses, live pure-bred breeding",Import,10766,2858,Weight in kilograms,2858,01_live_animals
+Andorra,1995,10111,"Horses, live pure-bred breeding",Export,596,347,Weight in kilograms,347,01_live_animals
+Andorra,1995,10119,"Horses, live except pure-bred breeding",Import,77099,26500,Weight in kilograms,26500,01_live_animals
+Andorra,1995,10119,"Horses, live except pure-bred breeding",Export,124740,73195,Weight in kilograms,73195,01_live_animals
+Andorra,1995,10120,"Asses, mules and hinnies, live",Import,2121,796,Weight in kilograms,796,01_live_animals
+Andorra,1995,10120,"Asses, mules and hinnies, live",Export,117,296,Weight in kilograms,296,01_live_animals
+Andorra,1995,10210,"Bovine animals, live pure-bred breeding",Import,60207,33296,Weight in kilograms,33296,01_live_animals
+Andorra,1995,10290,"Bovine animals, live, except pure-bred breeding",Import,11702,4937,Weight in kilograms,4937,01_live_animals
+Andorra,1995,10290,"Bovine animals, live, except pure-bred breeding",Export,443993,139796,Weight in kilograms,139796,01_live_animals
+Andorra,1995,10310,"Swine, live pure-bred breeding",Import,761,281,Weight in kilograms,281,01_live_animals
+Andorra,1995,10391,"Swine, live except pure-bred breeding < 50 kg",Import,273,128,Weight in kilograms,128,01_live_animals
+Andorra,1995,10392,"Swine, live except pure-bred breeding > 50 kg",Import,13723,8937,Weight in kilograms,8937,01_live_animals
+Andorra,1995,10410,"Sheep, live",Import,1631429,550812,Weight in kilograms,550812,01_live_animals
+Andorra,1995,10420,"Goats, live",Import,27096,4812,Weight in kilograms,4812,01_live_animals
+Andorra,1995,10511,"Fowls, live domestic < 185 grams",Import,3701,781,Weight in kilograms,781,01_live_animals
+Andorra,1995,10519,"Poultry, live except domestic fowls, < 185 grams",Import,78,20,Weight in kilograms,20,01_live_animals
+Andorra,1995,10591,"Fowls, live domestic > 185 grams",Import,12246,3125,Weight in kilograms,3125,01_live_animals
+Andorra,1995,10599,"Poultry, live except domestic fowls, > 185 grams",Import,713,86,Weight in kilograms,86,01_live_animals
+Andorra,1995,10600,"Animals, live, except farm animals",Import,65740,2769,Weight in kilograms,2769,01_live_animals
+Angola,2015,10111,"Horses, live pure-bred breeding",Import,1079,65,No Quantity,,01_live_animals
+Angola,2015,10119,"Horses, live except pure-bred breeding",Import,7931,3,No Quantity,,01_live_animals
+Angola,2015,10210,"Bovine animals, live pure-bred breeding",Import,261702,36502,Number of items,114,01_live_animals
+Angola,2015,10290,"Bovine animals, live, except pure-bred breeding",Import,899374,316669,Number of items,892,01_live_animals
+Angola,2015,10310,"Swine, live pure-bred breeding",Import,21266,1657,No Quantity,,01_live_animals
+Angola,2015,10410,"Sheep, live",Import,25274,5552,Number of items,240,01_live_animals
+Angola,2015,10420,"Goats, live",Import,353423,69403,No Quantity,,01_live_animals
+Angola,2015,10511,"Fowls, live domestic < 185 grams",Import,982327,465213,Number of items,295877,01_live_animals
+Angola,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Import,324481,4508171,Number of items,136495,01_live_animals
+Angola,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Import,994292,1394580,Number of items,135081,01_live_animals
+Angola,2015,10600,"Animals, live, except farm animals",Import,278423,6663,No Quantity,,01_live_animals
+Angola,2014,10111,"Horses, live pure-bred breeding",Import,27514,36896,No Quantity,,01_live_animals
+Angola,2014,10119,"Horses, live except pure-bred breeding",Import,332210,26826,No Quantity,,01_live_animals
+Angola,2014,10120,"Asses, mules and hinnies, live",Import,14320,915,No Quantity,,01_live_animals
+Angola,2014,10210,"Bovine animals, live pure-bred breeding",Import,5830922,60379236,Number of items,2473,01_live_animals
+Angola,2014,10290,"Bovine animals, live, except pure-bred breeding",Import,8433574,10511591,Number of items,7482,01_live_animals
+Angola,2014,10391,"Swine, live except pure-bred breeding < 50 kg",Import,3532,60,Number of items,45,01_live_animals
+Angola,2014,10410,"Sheep, live",Import,80237,37940,Number of items,730,01_live_animals
+Angola,2014,10420,"Goats, live",Import,1370366,472962,No Quantity,,01_live_animals
+Angola,2014,10511,"Fowls, live domestic < 185 grams",Import,839668,134353,No Quantity,,01_live_animals
+Angola,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Import,18499,4397,No Quantity,,01_live_animals
+Angola,2014,10591,"Fowls, live domestic > 185 grams",Import,4907,164,Number of items,1478,01_live_animals
+Angola,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Import,696791,242663,Number of items,56656,01_live_animals
+Angola,2014,10600,"Animals, live, except farm animals",Import,716461,365963,No Quantity,,01_live_animals
+Angola,2013,10111,"Horses, live pure-bred breeding",Import,77575,25007,No Quantity,,01_live_animals
+Angola,2013,10119,"Horses, live except pure-bred breeding",Import,143554,23944,No Quantity,,01_live_animals
+Angola,2013,10210,"Bovine animals, live pure-bred breeding",Import,4866281,1648156,Number of items,2339,01_live_animals
+Angola,2013,10290,"Bovine animals, live, except pure-bred breeding",Import,6057346,1416382,Number of items,6408,01_live_animals
+Angola,2013,10310,"Swine, live pure-bred breeding",Import,7496,1229,Number of items,12,01_live_animals
+Angola,2013,10410,"Sheep, live",Import,79825,28264,Number of items,818,01_live_animals
+Angola,2013,10420,"Goats, live",Import,122011,244551,Number of items,1377,01_live_animals
+Angola,2013,10511,"Fowls, live domestic < 185 grams",Import,585554,35692,Number of items,173794,01_live_animals
+Angola,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Import,387749,12283,No Quantity,,01_live_animals
+Angola,2013,10591,"Fowls, live domestic > 185 grams",Import,14589,558,No Quantity,,01_live_animals
+Angola,2013,10599,"Poultry, live except domestic fowls, > 185 grams",Import,33472,995,Number of items,4642,01_live_animals
+Angola,2013,10600,"Animals, live, except farm animals",Import,326195,637305,No Quantity,,01_live_animals
+Angola,2012,10111,"Horses, live pure-bred breeding",Import,1446233,110704,No Quantity,,01_live_animals
+Angola,2012,10119,"Horses, live except pure-bred breeding",Import,128161,10038,No Quantity,,01_live_animals
+Angola,2012,10210,"Bovine animals, live pure-bred breeding",Import,3819183,537463,Number of items,1853,01_live_animals
+Angola,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,12032645,1847819,Number of items,13353,01_live_animals
+Angola,2012,10310,"Swine, live pure-bred breeding",Import,17813,2359,Number of items,27,01_live_animals
+Angola,2012,10410,"Sheep, live",Import,289,476,Number of items,3,01_live_animals
+Angola,2012,10420,"Goats, live",Import,349235,18540,Number of items,3472,01_live_animals
+Angola,2012,10511,"Fowls, live domestic < 185 grams",Import,688950,20089,Number of items,215257,01_live_animals
+Angola,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Import,26743,551,Number of items,7423,01_live_animals
+Angola,2012,10591,"Fowls, live domestic > 185 grams",Import,42060,18462,No Quantity,,01_live_animals
+Angola,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Import,712,30,Number of items,70,01_live_animals
+Angola,2012,10600,"Animals, live, except farm animals",Import,382930,13069,No Quantity,,01_live_animals
+Angola,2011,10111,"Horses, live pure-bred breeding",Import,201178,24591,No Quantity,,01_live_animals
+Angola,2011,10119,"Horses, live except pure-bred breeding",Import,93295,37816,No Quantity,,01_live_animals
+Angola,2011,10210,"Bovine animals, live pure-bred breeding",Import,2936625,725935,Number of items,1480,01_live_animals
+Angola,2011,10290,"Bovine animals, live, except pure-bred breeding",Import,1631981,272654,Number of items,1764,01_live_animals
+Angola,2011,10310,"Swine, live pure-bred breeding",Import,10606,132,Number of items,13,01_live_animals
+Angola,2011,10410,"Sheep, live",Import,10258,1397,No Quantity,,01_live_animals
+Angola,2011,10420,"Goats, live",Import,138019,16911,No Quantity,,01_live_animals
+Angola,2011,10511,"Fowls, live domestic < 185 grams",Import,390282,10585,Number of items,114239,01_live_animals
+Angola,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Import,32839,1636,Number of items,7408,01_live_animals
+Angola,2011,10591,"Fowls, live domestic > 185 grams",Import,70449,1069,No Quantity,,01_live_animals
+Angola,2011,10599,"Poultry, live except domestic fowls, > 185 grams",Import,51825,1539,Number of items,7844,01_live_animals
+Angola,2011,10600,"Animals, live, except farm animals",Import,213702,51471,No Quantity,,01_live_animals
+Angola,2010,10111,"Horses, live pure-bred breeding",Import,90777,20371,No Quantity,,01_live_animals
+Angola,2010,10119,"Horses, live except pure-bred breeding",Import,219030,30347,No Quantity,,01_live_animals
+Angola,2010,10210,"Bovine animals, live pure-bred breeding",Import,1948782,331843,Number of items,1049,01_live_animals
+Angola,2010,10290,"Bovine animals, live, except pure-bred breeding",Import,60547,108332,Number of items,76,01_live_animals
+Angola,2010,10310,"Swine, live pure-bred breeding",Import,2406,1506,Number of items,3,01_live_animals
+Angola,2010,10391,"Swine, live except pure-bred breeding < 50 kg",Import,18525,373,No Quantity,,01_live_animals
+Angola,2010,10410,"Sheep, live",Import,2439,204,Number of items,32,01_live_animals
+Angola,2010,10420,"Goats, live",Import,28194,878,Number of items,434,01_live_animals
+Angola,2010,10511,"Fowls, live domestic < 185 grams",Import,244307,7235,Number of items,70923,01_live_animals
+Angola,2010,10519,"Poultry, live except domestic fowls, < 185 grams",Import,16580,7074,Number of items,3724,01_live_animals
+Angola,2010,10591,"Fowls, live domestic > 185 grams",Import,10190,382,No Quantity,,01_live_animals
+Angola,2010,10599,"Poultry, live except domestic fowls, > 185 grams",Import,6398,350,No Quantity,,01_live_animals
+Angola,2010,10600,"Animals, live, except farm animals",Import,59622,31118,No Quantity,,01_live_animals
+Angola,2009,10111,"Horses, live pure-bred breeding",Import,2522706,4396516,No Quantity,,01_live_animals
+Angola,2009,10119,"Horses, live except pure-bred breeding",Import,182920,171148,No Quantity,,01_live_animals
+Angola,2009,10210,"Bovine animals, live pure-bred breeding",Import,6455180,1573932,Number of items,2597,01_live_animals
+Angola,2009,10290,"Bovine animals, live, except pure-bred breeding",Import,1537488,339885716,Number of items,1683,01_live_animals
+Angola,2009,10310,"Swine, live pure-bred breeding",Import,308982,12778,Number of items,474,01_live_animals
+Angola,2009,10410,"Sheep, live",Import,195634,33343778,Number of items,2363,01_live_animals
+Angola,2009,10420,"Goats, live",Import,476855,6043972,No Quantity,,01_live_animals
+Angola,2009,10511,"Fowls, live domestic < 185 grams",Import,89815,3919,Number of items,28755,01_live_animals
+Angola,2009,10519,"Poultry, live except domestic fowls, < 185 grams",Import,3436,271,No Quantity,,01_live_animals
+Angola,2009,10599,"Poultry, live except domestic fowls, > 185 grams",Import,1584,118,Number of items,146,01_live_animals
+Angola,2009,10600,"Animals, live, except farm animals",Import,71683,13139,No Quantity,,01_live_animals
+Angola,2007,10111,"Horses, live pure-bred breeding",Import,63899,36507,No Quantity,,01_live_animals
+Angola,2007,10119,"Horses, live except pure-bred breeding",Import,80689,19435,No Quantity,,01_live_animals
+Angola,2007,10210,"Bovine animals, live pure-bred breeding",Import,721153,313199,Number of items,416,01_live_animals
+Angola,2007,10290,"Bovine animals, live, except pure-bred breeding",Import,2599708,839580,Number of items,3824,01_live_animals
+Angola,2007,10410,"Sheep, live",Import,6755,2910,Number of items,76,01_live_animals
+Angola,2007,10420,"Goats, live",Import,62572,16353,Number of items,866,01_live_animals
+Angola,2007,10511,"Fowls, live domestic < 185 grams",Import,187213,29551,No Quantity,,01_live_animals
+Angola,2007,10519,"Poultry, live except domestic fowls, < 185 grams",Import,2263,113,Number of items,562,01_live_animals
+Angola,2007,10591,"Fowls, live domestic > 185 grams",Import,8143,29884,No Quantity,,01_live_animals
+Angola,2007,10600,"Animals, live, except farm animals",Import,35276,1150,No Quantity,,01_live_animals
+Anguilla,2008,10111,"Horses, live pure-bred breeding",Import,277,16,No Quantity,,01_live_animals
+Anguilla,2008,10511,"Fowls, live domestic < 185 grams",Import,2030,250,Number of items,896,01_live_animals
+Anguilla,2008,10600,"Animals, live, except farm animals",Export,10056,21,No Quantity,,01_live_animals
+Anguilla,2007,10600,"Animals, live, except farm animals",Import,1,732,No Quantity,,01_live_animals
+Anguilla,2006,10591,"Fowls, live domestic > 185 grams",Import,2078,82,No Quantity,,01_live_animals
+Anguilla,2004,10600,"Animals, live, except farm animals",Import,16431,,No Quantity,,01_live_animals
+Anguilla,2003,10511,"Fowls, live domestic < 185 grams",Import,1000,20,Number of items,343,01_live_animals
+Anguilla,2003,10591,"Fowls, live domestic > 185 grams",Import,1828,,No Quantity,,01_live_animals
+Anguilla,2002,10511,"Fowls, live domestic < 185 grams",Import,1522,34,Number of items,717,01_live_animals
+Anguilla,2002,10600,"Animals, live, except farm animals",Import,3148,84,No Quantity,,01_live_animals
+Anguilla,2001,10591,"Fowls, live domestic > 185 grams",Import,2214,,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10420,"Goats, live",Import,3019,347,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10511,"Fowls, live domestic < 185 grams",Import,23527,959,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10511,"Fowls, live domestic < 185 grams",Re-Export,2081,115,Number of items,870,01_live_animals
+Antigua and Barbuda,2016,10511,"Fowls, live domestic < 185 grams",Export,2081,115,Number of items,870,01_live_animals
+Antigua and Barbuda,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,2840,170,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Export,2840,170,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10519,"Poultry, live except domestic fowls, < 185 grams",Import,412,10,Number of items,196,01_live_animals
+Antigua and Barbuda,2016,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,3162,364,Number of items,216,01_live_animals
+Antigua and Barbuda,2016,10599,"Poultry, live except domestic fowls, > 185 grams",Export,4310,1684,Number of items,294,01_live_animals
+Antigua and Barbuda,2016,10599,"Poultry, live except domestic fowls, > 185 grams",Import,10025,285,Number of items,997,01_live_animals
+Antigua and Barbuda,2016,10600,"Animals, live, except farm animals",Re-Export,2268,112,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10600,"Animals, live, except farm animals",Export,2453,135,No Quantity,,01_live_animals
+Antigua and Barbuda,2016,10600,"Animals, live, except farm animals",Import,4910,589,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10392,"Swine, live except pure-bred breeding > 50 kg",Export,556,90,Number of items,3,01_live_animals
+Antigua and Barbuda,2015,10511,"Fowls, live domestic < 185 grams",Import,55822,2435,Number of items,16814,01_live_animals
+Antigua and Barbuda,2015,10511,"Fowls, live domestic < 185 grams",Export,1263,40,Number of items,405,01_live_animals
+Antigua and Barbuda,2015,10511,"Fowls, live domestic < 185 grams",Re-Export,1263,40,Number of items,405,01_live_animals
+Antigua and Barbuda,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Import,10208,450,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Export,8476,300,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,8476,300,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Import,21544,638,Number of items,2927,01_live_animals
+Antigua and Barbuda,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Export,711,420,Number of items,62,01_live_animals
+Antigua and Barbuda,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,489,270,Number of items,43,01_live_animals
+Antigua and Barbuda,2015,10600,"Animals, live, except farm animals",Import,11797,1281,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10600,"Animals, live, except farm animals",Export,1296,213,No Quantity,,01_live_animals
+Antigua and Barbuda,2015,10600,"Animals, live, except farm animals",Re-Export,1074,168,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10119,"Horses, live except pure-bred breeding",Re-Export,13889,2500,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10119,"Horses, live except pure-bred breeding",Export,13889,2500,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10119,"Horses, live except pure-bred breeding",Import,23581,5939,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10410,"Sheep, live",Export,333,35,Number of items,3,01_live_animals
+Antigua and Barbuda,2014,10420,"Goats, live",Export,148,15,Number of items,2,01_live_animals
+Antigua and Barbuda,2014,10511,"Fowls, live domestic < 185 grams",Import,23315,832,Number of items,15450,01_live_animals
+Antigua and Barbuda,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,5337,210,Number of items,4600,01_live_animals
+Antigua and Barbuda,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Export,5337,210,Number of items,4600,01_live_animals
+Antigua and Barbuda,2014,10519,"Poultry, live except domestic fowls, < 185 grams",Import,6365,227,Number of items,3700,01_live_animals
+Antigua and Barbuda,2014,10591,"Fowls, live domestic > 185 grams",Re-Export,121,72,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10591,"Fowls, live domestic > 185 grams",Export,121,72,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Import,18907,660,Number of items,12200,01_live_animals
+Antigua and Barbuda,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Export,185,8,Number of items,2,01_live_animals
+Antigua and Barbuda,2014,10600,"Animals, live, except farm animals",Re-Export,1508,296,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10600,"Animals, live, except farm animals",Export,2063,320,No Quantity,,01_live_animals
+Antigua and Barbuda,2014,10600,"Animals, live, except farm animals",Import,4163,614,No Quantity,,01_live_animals
+Antigua and Barbuda,2013,10119,"Horses, live except pure-bred breeding",Import,4175,589,No Quantity,,01_live_animals
+Antigua and Barbuda,2013,10511,"Fowls, live domestic < 185 grams",Re-Export,2051,105,Number of items,2100,01_live_animals
+Antigua and Barbuda,2013,10511,"Fowls, live domestic < 185 grams",Export,2532,135,Number of items,2500,01_live_animals
+Antigua and Barbuda,2013,10511,"Fowls, live domestic < 185 grams",Import,28128,1007,Number of items,18010,01_live_animals
+Antigua and Barbuda,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,6883,292,Number of items,5704,01_live_animals
+Antigua and Barbuda,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Export,6883,292,Number of items,5704,01_live_animals
+Antigua and Barbuda,2013,10519,"Poultry, live except domestic fowls, < 185 grams",Import,13616,621,Number of items,9525,01_live_animals
+Antigua and Barbuda,2013,10591,"Fowls, live domestic > 185 grams",Import,1148,47,No Quantity,,01_live_animals
+Antigua and Barbuda,2013,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,368,5,Number of items,100,01_live_animals
+Antigua and Barbuda,2013,10599,"Poultry, live except domestic fowls, > 185 grams",Export,368,5,Number of items,100,01_live_animals
+Antigua and Barbuda,2013,10599,"Poultry, live except domestic fowls, > 185 grams",Import,30857,837,Number of items,16460,01_live_animals
+Antigua and Barbuda,2013,10600,"Animals, live, except farm animals",Re-Export,2574,282,No Quantity,,01_live_animals
+Antigua and Barbuda,2013,10600,"Animals, live, except farm animals",Export,2730,291,No Quantity,,01_live_animals
+Antigua and Barbuda,2013,10600,"Animals, live, except farm animals",Import,5553,744,No Quantity,,01_live_animals
+Antigua and Barbuda,2012,10119,"Horses, live except pure-bred breeding",Import,19003,3500,Number of items,7,01_live_animals
+Antigua and Barbuda,2012,10511,"Fowls, live domestic < 185 grams",Re-Export,963,54,Number of items,800,01_live_animals
+Antigua and Barbuda,2012,10511,"Fowls, live domestic < 185 grams",Export,1225,129,Number of items,2300,01_live_animals
+Antigua and Barbuda,2012,10511,"Fowls, live domestic < 185 grams",Import,23280,1097,Number of items,17107,01_live_animals
+Antigua and Barbuda,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,2301,145,Number of items,2900,01_live_animals
+Antigua and Barbuda,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Export,2301,145,Number of items,2900,01_live_animals
+Antigua and Barbuda,2012,10519,"Poultry, live except domestic fowls, < 185 grams",Import,7653,345,Number of items,6900,01_live_animals
+Antigua and Barbuda,2012,10591,"Fowls, live domestic > 185 grams",Import,10715,831,Number of items,8000,01_live_animals
+Antigua and Barbuda,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,356,60,Number of items,500,01_live_animals
+Antigua and Barbuda,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Export,356,60,Number of items,500,01_live_animals
+Antigua and Barbuda,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Import,40910,1897,Number of items,25300,01_live_animals
+Antigua and Barbuda,2012,10600,"Animals, live, except farm animals",Re-Export,2693,519,Number of items,17,01_live_animals
+Antigua and Barbuda,2012,10600,"Animals, live, except farm animals",Export,2693,519,Number of items,17,01_live_animals
+Antigua and Barbuda,2012,10600,"Animals, live, except farm animals",Import,12976,1201,Number of items,62,01_live_animals
+Antigua and Barbuda,2011,10420,"Goats, live",Re-Export,6237,988,Number of items,13,01_live_animals
+Antigua and Barbuda,2011,10420,"Goats, live",Export,6237,988,Number of items,13,01_live_animals
+Antigua and Barbuda,2011,10420,"Goats, live",Import,5460,188,Number of items,6,01_live_animals
+Antigua and Barbuda,2011,10511,"Fowls, live domestic < 185 grams",Re-Export,1832,214,Number of items,1800,01_live_animals
+Antigua and Barbuda,2011,10511,"Fowls, live domestic < 185 grams",Export,1832,214,Number of items,1800,01_live_animals
+Antigua and Barbuda,2011,10511,"Fowls, live domestic < 185 grams",Import,14409,636,Number of items,19000,01_live_animals
+Antigua and Barbuda,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Re-Export,5778,236,Number of items,2864,01_live_animals
+Antigua and Barbuda,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Export,5778,236,Number of items,2864,01_live_animals
+Antigua and Barbuda,2011,10519,"Poultry, live except domestic fowls, < 185 grams",Import,24073,1078,Number of items,19382,01_live_animals
+Antigua and Barbuda,2011,10591,"Fowls, live domestic > 185 grams",Import,3788,457,Number of items,3850,01_live_animals
+Antigua and Barbuda,2011,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,1443,166,Number of items,1200,01_live_animals
+Antigua and Barbuda,2011,10599,"Poultry, live except domestic fowls, > 185 grams",Export,1443,166,Number of items,1200,01_live_animals
+Antigua and Barbuda,2011,10599,"Poultry, live except domestic fowls, > 185 grams",Import,29177,594,Number of items,14900,01_live_animals
+Antigua and Barbuda,2011,10600,"Animals, live, except farm animals",Re-Export,11088,417,Number of items,16,01_live_animals
+Antigua and Barbuda,2011,10600,"Animals, live, except farm animals",Export,11088,417,Number of items,16,01_live_animals
+Antigua and Barbuda,2011,10600,"Animals, live, except farm animals",Import,12552,1055,Number of items,69,01_live_animals
+Antigua and Barbuda,2010,10119,"Horses, live except pure-bred breeding",Re-Export,238518,22147,Number of items,17,01_live_animals
+Antigua and Barbuda,2010,10119,"Horses, live except pure-bred breeding",Export,238518,22147,Number of items,17,01_live_animals
+Antigua and Barbuda,2010,10511,"Fowls, live domestic < 185 grams",Import,2144,86,Number of items,1850,01_live_animals
+Antigua and Barbuda,2010,10591,"Fowls, live domestic > 185 grams",Import,14677,526,Number of items,10250,01_live_animals
+Antigua and Barbuda,2010,10599,"Poultry, live except domestic fowls, > 185 grams",Import,23920,734,Number of items,23502,01_live_animals
+Antigua and Barbuda,2010,10600,"Animals, live, except farm animals",Re-Export,3002,347,Number of items,15,01_live_animals
+Antigua and Barbuda,2010,10600,"Animals, live, except farm animals",Export,3002,347,Number of items,15,01_live_animals
+Antigua and Barbuda,2010,10600,"Animals, live, except farm animals",Import,11853,1108,Number of items,170,01_live_animals
+Antigua and Barbuda,2009,10119,"Horses, live except pure-bred breeding",Re-Export,22222,6000,Number of items,5,01_live_animals
+Antigua and Barbuda,2009,10119,"Horses, live except pure-bred breeding",Export,22222,6000,Number of items,5,01_live_animals
+Antigua and Barbuda,2009,10119,"Horses, live except pure-bred breeding",Import,36605,9364,Number of items,7,01_live_animals
+Antigua and Barbuda,2009,10410,"Sheep, live",Import,2021,150,Number of items,2,01_live_animals
+Antigua and Barbuda,2009,10420,"Goats, live",Re-Export,1111,32,Number of items,2,01_live_animals
+Antigua and Barbuda,2009,10420,"Goats, live",Export,1111,32,Number of items,2,01_live_animals
+Antigua and Barbuda,2009,10511,"Fowls, live domestic < 185 grams",Import,5640,162,Number of items,2739,01_live_animals
+Antigua and Barbuda,2009,10519,"Poultry, live except domestic fowls, < 185 grams",Import,303,13,Number of items,75,01_live_animals
+Antigua and Barbuda,2009,10591,"Fowls, live domestic > 185 grams",Import,96776,3085,Number of items,60482,01_live_animals
+Antigua and Barbuda,2009,10599,"Poultry, live except domestic fowls, > 185 grams",Import,11107,411,Number of items,7520,01_live_animals
+Antigua and Barbuda,2009,10600,"Animals, live, except farm animals",Re-Export,8690,6805,Number of items,30,01_live_animals
+Antigua and Barbuda,2009,10600,"Animals, live, except farm animals",Export,8690,6805,Number of items,30,01_live_animals
+Antigua and Barbuda,2009,10600,"Animals, live, except farm animals",Import,19309,1670,Number of items,58,01_live_animals
+Antigua and Barbuda,2007,10111,"Horses, live pure-bred breeding",Import,4334,48795,No Quantity,,01_live_animals
+Antigua and Barbuda,2007,10119,"Horses, live except pure-bred breeding",Import,4287,681,No Quantity,,01_live_animals
+Antigua and Barbuda,2007,10511,"Fowls, live domestic < 185 grams",Import,40985,1429,No Quantity,,01_live_animals
+Antigua and Barbuda,2007,10511,"Fowls, live domestic < 185 grams",Export,3042,99,Number of items,1137,01_live_animals
+Antigua and Barbuda,2007,10511,"Fowls, live domestic < 185 grams",Re-Export,368,9,Number of items,137,01_live_animals
+Antigua and Barbuda,2007,10519,"Poultry, live except domestic fowls, < 185 grams",Import,735,30,Number of items,183,01_live_animals
+Antigua and Barbuda,2007,10591,"Fowls, live domestic > 185 grams",Import,7599,336,No Quantity,,01_live_animals
+Antigua and Barbuda,2007,10591,"Fowls, live domestic > 185 grams",Export,2471,109,Number of items,1158,01_live_animals
+Antigua and Barbuda,2007,10591,"Fowls, live domestic > 185 grams",Re-Export,471,21,Number of items,221,01_live_animals
+Antigua and Barbuda,2007,10599,"Poultry, live except domestic fowls, > 185 grams",Import,22633,999,Number of items,3443,01_live_animals
+Antigua and Barbuda,2007,10600,"Animals, live, except farm animals",Import,33294,3713,No Quantity,,01_live_animals
+Antigua and Barbuda,2007,10600,"Animals, live, except farm animals",Export,13822,746,No Quantity,,01_live_animals
+Antigua and Barbuda,2006,10111,"Horses, live pure-bred breeding",Import,4639,1080,No Quantity,,01_live_animals
+Antigua and Barbuda,2006,10511,"Fowls, live domestic < 185 grams",Import,41471,1369,Number of items,15480,01_live_animals
+Antigua and Barbuda,2006,10519,"Poultry, live except domestic fowls, < 185 grams",Import,2679,105,No Quantity,,01_live_animals
+Antigua and Barbuda,2006,10591,"Fowls, live domestic > 185 grams",Import,6819,11440,No Quantity,,01_live_animals
+Antigua and Barbuda,2006,10599,"Poultry, live except domestic fowls, > 185 grams",Import,19556,748,No Quantity,,01_live_animals
+Antigua and Barbuda,2006,10600,"Animals, live, except farm animals",Import,9174,959,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10111,"Horses, live pure-bred breeding",Import,113,17,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10119,"Horses, live except pure-bred breeding",Import,14941,4090,Number of items,1,01_live_animals
+Antigua and Barbuda,2005,10119,"Horses, live except pure-bred breeding",Export,36548,7900,Number of items,6,01_live_animals
+Antigua and Barbuda,2005,10210,"Bovine animals, live pure-bred breeding",Import,889,250,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10391,"Swine, live except pure-bred breeding < 50 kg",Import,1778,490,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10410,"Sheep, live",Import,2826,109,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10420,"Goats, live",Import,170,120,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10511,"Fowls, live domestic < 185 grams",Import,16389,1640,Number of items,6117,01_live_animals
+Antigua and Barbuda,2005,10519,"Poultry, live except domestic fowls, < 185 grams",Import,43913,1304,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10591,"Fowls, live domestic > 185 grams",Import,240,11,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10591,"Fowls, live domestic > 185 grams",Export,2671,123,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10591,"Fowls, live domestic > 185 grams",Re-Export,877,2,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10599,"Poultry, live except domestic fowls, > 185 grams",Import,36029,1096,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10599,"Poultry, live except domestic fowls, > 185 grams",Export,780,39,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,550,24,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10600,"Animals, live, except farm animals",Import,8156,991,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10600,"Animals, live, except farm animals",Export,1356,312,No Quantity,,01_live_animals
+Antigua and Barbuda,2005,10600,"Animals, live, except farm animals",Re-Export,815,244,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10111,"Horses, live pure-bred breeding",Export,111,663,Number of items,0,01_live_animals
+Antigua and Barbuda,2000,10119,"Horses, live except pure-bred breeding",Export,25926,14300,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10119,"Horses, live except pure-bred breeding",Re-Export,25926,14300,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10410,"Sheep, live",Export,556,136,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10420,"Goats, live",Import,2236,15,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10511,"Fowls, live domestic < 185 grams",Import,15764,3677,Number of items,6277,01_live_animals
+Antigua and Barbuda,2000,10511,"Fowls, live domestic < 185 grams",Export,1709,70,Number of items,639,01_live_animals
+Antigua and Barbuda,2000,10511,"Fowls, live domestic < 185 grams",Re-Export,1709,70,Number of items,639,01_live_animals
+Antigua and Barbuda,2000,10519,"Poultry, live except domestic fowls, < 185 grams",Import,8239,417,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10591,"Fowls, live domestic > 185 grams",Import,8930,556,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10599,"Poultry, live except domestic fowls, > 185 grams",Import,10844,659,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10599,"Poultry, live except domestic fowls, > 185 grams",Export,35,2,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10599,"Poultry, live except domestic fowls, > 185 grams",Re-Export,35,2,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10600,"Animals, live, except farm animals",Import,10395,804,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10600,"Animals, live, except farm animals",Export,7421,504,No Quantity,,01_live_animals
+Antigua and Barbuda,2000,10600,"Animals, live, except farm animals",Re-Export,4944,263,No Quantity,,01_live_animals
+Antigua and Barbuda,1999,10111,"Horses, live pure-bred breeding",Export,42592,2812,Weight in kilograms,2812,01_live_animals
+Antigua and Barbuda,1999,10111,"Horses, live pure-bred breeding",Re-Export,42592,2812,Weight in kilograms,2812,01_live_animals
+Antigua and Barbuda,1999,10119,"Horses, live except pure-bred breeding",Import,17495,7187,Weight in kilograms,7187,01_live_animals
+Antigua and Barbuda,1999,10119,"Horses, live except pure-bred breeding",Export,1851,457,Weight in kilograms,457,01_live_animals
+Antigua and Barbuda,1999,10119,"Horses, live except pure-bred breeding",Re-Export,1851,457,Weight in kilograms,457,01_live_animals
+Antigua and Barbuda,1999,10120,"Asses, mules and hinnies, live",Export,55,2,Weight in kilograms,2,01_live_animals
+Antigua and Barbuda,1999,10310,"Swine, live pure-bred breeding",Import,5509,22,Weight in kilograms,22,01_live_animals
+Antigua and Barbuda,1999,10410,"Sheep, live",Export,370,78,Weight in kilograms,78,01_live_animals
+Antigua and Barbuda,1999,10410,"Sheep, live",Re-Export,370,78,Weight in kilograms,78,01_live_animals
+Antigua and Barbuda,1999,10420,"Goats, live",Import,74,24,Weight in kilograms,24,01_live_animals
+Antigua and Barbuda,1999,10420,"Goats, live",Export,2184,370,Weight in kilograms,370,01_live_animals
+Antigua and Barbuda,1999,10420,"Goats, live",Re-Export,2184,370,Weight in kilograms,370,01_live_animals
+Antigua and Barbuda,1999,10511,"Fowls, live domestic < 185 grams",Import,99368,24994,Weight in kilograms,24994,01_live_animals
+Antigua and Barbuda,1999,10511,"Fowls, live domestic < 185 grams",Export,319,14,Weight in kilograms,14,01_live_animals
+Antigua and Barbuda,1999,10511,"Fowls, live domestic < 185 grams",Re-Export,319,14,Weight in kilograms,14,01_live_animals
+Antigua and Barbuda,1999,10519,"Poultry, live except domestic fowls, < 185 grams",Import,72077,19342,Weight in kilograms,19342,01_live_animals
+Antigua and Barbuda,1999,10591,"Fowls, live domestic > 185 grams",Import,441,24,Weight in kilograms,24,01_live_animals
+Antigua and Barbuda,1999,10599,"Poultry, live except domestic fowls, > 185 grams",Import,10849,382,Weight in kilograms,382,01_live_animals
+Antigua and Barbuda,1999,10600,"Animals, live, except farm animals",Import,11626,742,Weight in kilograms,742,01_live_animals
+Antigua and Barbuda,1999,10600,"Animals, live, except farm animals",Export,3756,248,Weight in kilograms,248,01_live_animals
+Antigua and Barbuda,1999,10600,"Animals, live, except farm animals",Re-Export,1091,91,Weight in kilograms,91,01_live_animals
+Argentina,2016,10111,"Horses, live pure-bred breeding",Import,2443784,81920,Number of items,166,01_live_animals
+Argentina,2016,10111,"Horses, live pure-bred breeding",Export,3495044,83350,Number of items,176,01_live_animals
+Argentina,2016,10111,"Horses, live pure-bred breeding",Re-Import,303439,9950,Number of items,20,01_live_animals
+Argentina,2016,10119,"Horses, live except pure-bred breeding",Import,2633901,79120,Number of items,166,01_live_animals
+Argentina,2016,10119,"Horses, live except pure-bred breeding",Export,27705416,956830,Number of items,2174,01_live_animals
+Argentina,2016,10119,"Horses, live except pure-bred breeding",Re-Import,316781,10300,Number of items,21,01_live_animals
+Argentina,2016,10210,"Bovine animals, live pure-bred breeding",Import,23331,8660,Number of items,17,01_live_animals
+Argentina,2016,10210,"Bovine animals, live pure-bred breeding",Export,864094,156595,Number of items,374,01_live_animals
+Argentina,2016,10290,"Bovine animals, live, except pure-bred breeding",Export,6512,500,Number of items,1,01_live_animals
+Argentina,2016,10310,"Swine, live pure-bred breeding",Import,1218427,52400,Number of items,737,01_live_animals
+Argentina,2016,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1144186,96575,Number of items,797,01_live_animals
+Argentina,2016,10392,"Swine, live except pure-bred breeding > 50 kg",Export,23130,803,Number of items,8,01_live_animals
+Argentina,2016,10410,"Sheep, live",Import,394693,5590,Number of items,51,01_live_animals
+Argentina,2016,10410,"Sheep, live",Export,26345,2547,Number of items,25,01_live_animals
+Argentina,2016,10420,"Goats, live",Export,3050,155,Number of items,3,01_live_animals
+Argentina,2016,10511,"Fowls, live domestic < 185 grams",Import,15466167,35058,Number of items,806862,01_live_animals
+Argentina,2016,10511,"Fowls, live domestic < 185 grams",Export,740360,6640,Number of items,126920,01_live_animals
+Argentina,2016,10600,"Animals, live, except farm animals",Import,181826,764,Number of items,2628,01_live_animals
+Argentina,2016,10600,"Animals, live, except farm animals",Export,862576,14826,Number of items,139986,01_live_animals
+Argentina,2015,10111,"Horses, live pure-bred breeding",Re-Import,34361,1500,Number of items,3,01_live_animals
+Argentina,2015,10111,"Horses, live pure-bred breeding",Export,1492760,99450,Number of items,220,01_live_animals
+Argentina,2015,10111,"Horses, live pure-bred breeding",Import,1479726,31820,Number of items,67,01_live_animals
+Argentina,2015,10119,"Horses, live except pure-bred breeding",Re-Import,17170,500,Number of items,1,01_live_animals
+Argentina,2015,10119,"Horses, live except pure-bred breeding",Export,15062198,970400,Number of items,2196,01_live_animals
+Argentina,2015,10119,"Horses, live except pure-bred breeding",Import,581639,35970,Number of items,77,01_live_animals
+Argentina,2015,10120,"Asses, mules and hinnies, live",Re-Import,6970,500,Number of items,1,01_live_animals
+Argentina,2015,10120,"Asses, mules and hinnies, live",Import,14219,1000,Number of items,2,01_live_animals
+Argentina,2015,10210,"Bovine animals, live pure-bred breeding",Export,688815,118417,Number of items,276,01_live_animals
+Argentina,2015,10210,"Bovine animals, live pure-bred breeding",Import,9949,3000,Number of items,3,01_live_animals
+Argentina,2015,10290,"Bovine animals, live, except pure-bred breeding",Export,41746,20100,Number of items,58,01_live_animals
+Argentina,2015,10310,"Swine, live pure-bred breeding",Import,339865,11760,Number of items,90,01_live_animals
+Argentina,2015,10392,"Swine, live except pure-bred breeding > 50 kg",Export,116792,13336,Number of items,157,01_live_animals
+Argentina,2015,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1028685,83840,Number of items,879,01_live_animals
+Argentina,2015,10410,"Sheep, live",Export,33060,2100,Number of items,27,01_live_animals
+Argentina,2015,10410,"Sheep, live",Import,133867,2405,Number of items,23,01_live_animals
+Argentina,2015,10511,"Fowls, live domestic < 185 grams",Export,1059380,9440,Number of items,181360,01_live_animals
+Argentina,2015,10511,"Fowls, live domestic < 185 grams",Import,11133501,24395,Number of items,577001,01_live_animals
+Argentina,2015,10599,"Poultry, live except domestic fowls, > 185 grams",Import,2843,84,Number of items,28,01_live_animals
+Argentina,2015,10600,"Animals, live, except farm animals",Export,979455,27929,Number of items,130229,01_live_animals
+Argentina,2015,10600,"Animals, live, except farm animals",Import,218924,2300,Number of items,5883,01_live_animals
+Argentina,2014,10111,"Horses, live pure-bred breeding",Re-Import,24120,1000,Number of items,2,01_live_animals
+Argentina,2014,10111,"Horses, live pure-bred breeding",Export,2136042,154050,Number of items,332,01_live_animals
+Argentina,2014,10111,"Horses, live pure-bred breeding",Import,1498488,51735,Number of items,106,01_live_animals
+Argentina,2014,10119,"Horses, live except pure-bred breeding",Re-Import,42885,2000,Number of items,4,01_live_animals
+Argentina,2014,10119,"Horses, live except pure-bred breeding",Export,17121944,1086600,Number of items,2471,01_live_animals
+Argentina,2014,10119,"Horses, live except pure-bred breeding",Import,545341,28327,Number of items,58,01_live_animals
+Argentina,2014,10210,"Bovine animals, live pure-bred breeding",Export,1169609,176427,Number of items,341,01_live_animals
+Argentina,2014,10290,"Bovine animals, live, except pure-bred breeding",Export,399282,120090,Number of items,281,01_live_animals
+Argentina,2014,10290,"Bovine animals, live, except pure-bred breeding",Import,312969,92000,Number of items,200,01_live_animals
+Argentina,2014,10310,"Swine, live pure-bred breeding",Import,248400,6319,Number of items,41,01_live_animals
+Argentina,2014,10392,"Swine, live except pure-bred breeding > 50 kg",Export,93190,6856,Number of items,94,01_live_animals
+Argentina,2014,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1111259,141320,Number of items,1480,01_live_animals
+Argentina,2014,10410,"Sheep, live",Export,48961,1815,Number of items,16,01_live_animals
+Argentina,2014,10410,"Sheep, live",Import,321070,4580,Number of items,42,01_live_animals
+Argentina,2014,10511,"Fowls, live domestic < 185 grams",Export,1144080,10220,Number of items,196010,01_live_animals
+Argentina,2014,10511,"Fowls, live domestic < 185 grams",Import,11146504,26371,Number of items,612140,01_live_animals
+Argentina,2014,10600,"Animals, live, except farm animals",Re-Import,11276,89,Number of items,682,01_live_animals
+Argentina,2014,10600,"Animals, live, except farm animals",Export,1079870,24823,Number of items,104096,01_live_animals
+Argentina,2014,10600,"Animals, live, except farm animals",Import,145433,693,Number of items,6504,01_live_animals
+Argentina,2013,10111,"Horses, live pure-bred breeding",Re-Import,89705,1000,Number of items,2,01_live_animals
+Argentina,2013,10111,"Horses, live pure-bred breeding",Export,2042839,79150,Number of items,173,01_live_animals
+Argentina,2013,10111,"Horses, live pure-bred breeding",Import,1702922,58963,Number of items,127,01_live_animals
+Argentina,2013,10119,"Horses, live except pure-bred breeding",Re-Import,20200,1500,Number of items,3,01_live_animals
+Argentina,2013,10119,"Horses, live except pure-bred breeding",Export,13311737,1005450,Number of items,2287,01_live_animals
+Argentina,2013,10119,"Horses, live except pure-bred breeding",Import,926002,51620,Number of items,110,01_live_animals
+Argentina,2013,10210,"Bovine animals, live pure-bred breeding",Export,420343,89508,Number of items,185,01_live_animals
+Argentina,2013,10210,"Bovine animals, live pure-bred breeding",Import,192527,33630,Number of items,73,01_live_animals
+Argentina,2013,10290,"Bovine animals, live, except pure-bred breeding",Export,195505,43900,Number of items,95,01_live_animals
+Argentina,2013,10290,"Bovine animals, live, except pure-bred breeding",Import,120282,45286,Number of items,116,01_live_animals
+Argentina,2013,10310,"Swine, live pure-bred breeding",Import,891748,77626,Number of items,1268,01_live_animals
+Argentina,2013,10392,"Swine, live except pure-bred breeding > 50 kg",Import,2193082,202331,Number of items,2088,01_live_animals
+Argentina,2013,10410,"Sheep, live",Export,46651,2815,Number of items,49,01_live_animals
+Argentina,2013,10410,"Sheep, live",Import,115346,850,Number of items,5,01_live_animals
+Argentina,2013,10511,"Fowls, live domestic < 185 grams",Export,1190105,14457,Number of items,288820,01_live_animals
+Argentina,2013,10511,"Fowls, live domestic < 185 grams",Import,10923433,27114,Number of items,625121,01_live_animals
+Argentina,2013,10600,"Animals, live, except farm animals",Export,679125,22097,Number of items,85522,01_live_animals
+Argentina,2013,10600,"Animals, live, except farm animals",Import,105153,436,Number of items,5080,01_live_animals
+Argentina,2012,10111,"Horses, live pure-bred breeding",Re-Import,111161,2900,Number of items,6,01_live_animals
+Argentina,2012,10111,"Horses, live pure-bred breeding",Export,3284170,194250,Number of items,430,01_live_animals
+Argentina,2012,10111,"Horses, live pure-bred breeding",Import,1832143,80813,Number of items,175,01_live_animals
+Argentina,2012,10119,"Horses, live except pure-bred breeding",Re-Import,38809,3750,Number of items,8,01_live_animals
+Argentina,2012,10119,"Horses, live except pure-bred breeding",Export,16072363,929351,Number of items,2143,01_live_animals
+Argentina,2012,10119,"Horses, live except pure-bred breeding",Import,1297064,91907,Number of items,198,01_live_animals
+Argentina,2012,10210,"Bovine animals, live pure-bred breeding",Export,442331,52715,Number of items,115,01_live_animals
+Argentina,2012,10210,"Bovine animals, live pure-bred breeding",Import,77022,4698,Number of items,9,01_live_animals
+Argentina,2012,10290,"Bovine animals, live, except pure-bred breeding",Export,4271862,864260,Number of items,2283,01_live_animals
+Argentina,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,217727,60825,Number of items,161,01_live_animals
+Argentina,2012,10310,"Swine, live pure-bred breeding",Import,112310,13273,Number of items,146,01_live_animals
+Argentina,2012,10392,"Swine, live except pure-bred breeding > 50 kg",Import,1739100,111315,Number of items,1116,01_live_animals
+Argentina,2012,10410,"Sheep, live",Export,12922,500,Number of items,5,01_live_animals
+Argentina,2012,10410,"Sheep, live",Import,244199,2720,Number of items,26,01_live_animals
+Argentina,2012,10511,"Fowls, live domestic < 185 grams",Export,1161214,12700,Number of items,243479,01_live_animals
+Argentina,2012,10511,"Fowls, live domestic < 185 grams",Import,9532024,26466,Number of items,594394,01_live_animals
+Argentina,2012,10600,"Animals, live, except farm animals",Export,844298,33339,Number of items,1715169,01_live_animals
+Argentina,2012,10600,"Animals, live, except farm animals",Import,432663,11565,Number of items,10911,01_live_animals
+Argentina,2011,10111,"Horses, live pure-bred breeding",Re-Import,50111,3753,Number of items,7,01_live_animals
+Argentina,2011,10111,"Horses, live pure-bred breeding",Export,3175061,120707,Number of items,258,01_live_animals
+Argentina,2011,10111,"Horses, live pure-bred breeding",Import,2294033,145739,Number of items,316,01_live_animals
+Argentina,2011,10119,"Horses, live except pure-bred breeding",Re-Import,18557,1850,Number of items,4,01_live_animals
+Argentina,2011,10119,"Horses, live except pure-bred breeding",Export,16279756,1059591,Number of items,2467,01_live_animals
+Argentina,2011,10119,"Horses, live except pure-bred breeding",Import,1559461,125855,Number of items,268,01_live_animals
+Argentina,2011,10210,"Bovine animals, live pure-bred breeding",Export,437864,54377,Number of items,103,01_live_animals
+Argentina,2011,10210,"Bovine animals, live pure-bred breeding",Import,13009,1600,Number of items,2,01_live_animals
+Argentina,2011,10290,"Bovine animals, live, except pure-bred breeding",Export,244601,40725,Number of items,111,01_live_animals
+Argentina,2011,10290,"Bovine animals, live, except pure-bred breeding",Import,617409,247958,Number of items,699,01_live_animals
+Argentina,2011,10310,"Swine, live pure-bred breeding",Import,256657,22415,Number of items,297,01_live_animals
+Argentina,2011,10392,"Swine, live except pure-bred breeding > 50 kg",Import,3042285,314741,Number of items,4061,01_live_animals
+Argentina,2011,10410,"Sheep, live",Export,35261,5430,Number of items,76,01_live_animals
+Argentina,2011,10410,"Sheep, live",Import,75682,307,Number of items,2,01_live_animals
+Argentina,2011,10511,"Fowls, live domestic < 185 grams",Export,1179246,14692,Number of items,282715,01_live_animals
+Argentina,2011,10511,"Fowls, live domestic < 185 grams",Import,9262838,26937,Number of items,606641,01_live_animals
+Argentina,2011,10600,"Animals, live, except farm animals",Export,1097728,27330,Number of items,1020034,01_live_animals
+Argentina,2011,10600,"Animals, live, except farm animals",Import,256246,2856,Number of items,18771,01_live_animals
+Argentina,2010,10111,"Horses, live pure-bred breeding",Re-Import,33091,1335,Number of items,3,01_live_animals
+Argentina,2010,10111,"Horses, live pure-bred breeding",Export,1885787,84280,Number of items,175,01_live_animals
+Argentina,2010,10111,"Horses, live pure-bred breeding",Import,2694586,132850,Number of items,290,01_live_animals
+Argentina,2010,10119,"Horses, live except pure-bred breeding",Re-Import,15016,1500,Number of items,3,01_live_animals
+Argentina,2010,10119,"Horses, live except pure-bred breeding",Export,20028647,1478060,Number of items,3362,01_live_animals
+Argentina,2010,10119,"Horses, live except pure-bred breeding",Import,1291141,120672,Number of items,256,01_live_animals
+Argentina,2010,10210,"Bovine animals, live pure-bred breeding",Export,689946,115377,Number of items,230,01_live_animals
+Argentina,2010,10210,"Bovine animals, live pure-bred breeding",Import,32799,5160,Number of items,12,01_live_animals
+Argentina,2010,10290,"Bovine animals, live, except pure-bred breeding",Export,1001289,336343,Number of items,730,01_live_animals
+Argentina,2010,10310,"Swine, live pure-bred breeding",Import,390078,36449,Number of items,364,01_live_animals
+Argentina,2010,10392,"Swine, live except pure-bred breeding > 50 kg",Import,163924,30310,Number of items,406,01_live_animals
+Argentina,2010,10410,"Sheep, live",Export,193994,121770,Number of items,4599,01_live_animals
+Argentina,2010,10410,"Sheep, live",Import,71959,2195,Number of items,19,01_live_animals
+Argentina,2010,10511,"Fowls, live domestic < 185 grams",Export,1125960,17604,Number of items,339837,01_live_animals
+Argentina,2010,10511,"Fowls, live domestic < 185 grams",Import,8213777,26067,Number of items,581687,01_live_animals
+Argentina,2010,10600,"Animals, live, except farm animals",Export,732773,26129,Number of items,80198,01_live_animals
+Argentina,2010,10600,"Animals, live, except farm animals",Import,213863,3601,Number of items,11783,01_live_animals
+Argentina,2009,10111,"Horses, live pure-bred breeding",Re-Import,136343,5824,Number of items,12,01_live_animals
+Argentina,2009,10111,"Horses, live pure-bred breeding",Export,1546535,103685,Number of items,222,01_live_animals
+Argentina,2009,10111,"Horses, live pure-bred breeding",Import,3156616,198920,Number of items,413,01_live_animals
+Argentina,2009,10119,"Horses, live except pure-bred breeding",Re-Import,11437,1350,Number of items,3,01_live_animals
+Argentina,2009,10119,"Horses, live except pure-bred breeding",Export,27415230,1751275,Number of items,4033,01_live_animals
+Argentina,2009,10119,"Horses, live except pure-bred breeding",Import,1761120,132661,Number of items,283,01_live_animals
+Argentina,2009,10210,"Bovine animals, live pure-bred breeding",Export,347043,155190,Number of items,409,01_live_animals
+Argentina,2009,10290,"Bovine animals, live, except pure-bred breeding",Export,2638127,1055455,Number of items,2376,01_live_animals
+Argentina,2009,10310,"Swine, live pure-bred breeding",Import,43952,10150,Number of items,145,01_live_animals
+Argentina,2009,10392,"Swine, live except pure-bred breeding > 50 kg",Export,116189,8097,Number of items,91,01_live_animals
+Argentina,2009,10392,"Swine, live except pure-bred breeding > 50 kg",Import,410399,66963,Number of items,671,01_live_animals
+Argentina,2009,10410,"Sheep, live",Export,8060,1540,Number of items,16,01_live_animals
+Argentina,2009,10410,"Sheep, live",Import,77600,2422,Number of items,26,01_live_animals
+Argentina,2009,10420,"Goats, live",Import,14134,1100,Number of items,22,01_live_animals
+Argentina,2009,10511,"Fowls, live domestic < 185 grams",Export,678554,11077,Number of items,222660,01_live_animals
+Argentina,2009,10511,"Fowls, live domestic < 185 grams",Import,7244147,25553,Number of items,569353,01_live_animals
+Argentina,2009,10600,"Animals, live, except farm animals",Export,674907,27467,Number of items,568394,01_live_animals
+Argentina,2009,10600,"Animals, live, except farm animals",Import,338968,10337,Number of items,12430585,01_live_animals
+Argentina,2008,10111,"Horses, live pure-bred breeding",Re-Import,673160,5931,Number of items,12,01_live_animals
+Argentina,2008,10111,"Horses, live pure-bred breeding",Export,3603026,80444,Number of items,170,01_live_animals
+Argentina,2008,10111,"Horses, live pure-bred breeding",Import,6110136,203460,Number of items,427,01_live_animals
+Argentina,2008,10119,"Horses, live except pure-bred breeding",Re-Import,49199,3350,Number of items,8,01_live_animals
+Argentina,2008,10119,"Horses, live except pure-bred breeding",Export,29492108,2215116,Number of items,5125,01_live_animals
+Argentina,2008,10119,"Horses, live except pure-bred breeding",Import,3262983,228122,Number of items,511,01_live_animals
+Argentina,2008,10210,"Bovine animals, live pure-bred breeding",Export,241500,11200,Number of items,20,01_live_animals
+Argentina,2008,10290,"Bovine animals, live, except pure-bred breeding",Export,2090940,710033,Number of items,1553,01_live_animals
+Argentina,2008,10310,"Swine, live pure-bred breeding",Import,281936,86749,Number of items,838,01_live_animals
+Argentina,2008,10391,"Swine, live except pure-bred breeding < 50 kg",Import,42965,18000,Number of items,401,01_live_animals
+Argentina,2008,10410,"Sheep, live",Export,49670,25355,Number of items,759,01_live_animals
+Argentina,2008,10410,"Sheep, live",Import,140606,2996,Number of items,75,01_live_animals
+Argentina,2008,10511,"Fowls, live domestic < 185 grams",Export,542611,9103,Number of items,186700,01_live_animals
+Argentina,2008,10511,"Fowls, live domestic < 185 grams",Import,5868986,24335,Number of items,521642,01_live_animals
+Argentina,2008,10600,"Animals, live, except farm animals",Export,555245,34221,Number of items,34384,01_live_animals
+Argentina,2008,10600,"Animals, live, except farm animals",Import,651502,17919,Number of items,14967927,01_live_animals
+Argentina,2007,10111,"Horses, live pure-bred breeding",Import,2211562,164250,Number of items,345,01_live_animals
+Argentina,2007,10111,"Horses, live pure-bred breeding",Export,6704708,91432,Number of items,193,01_live_animals
+Argentina,2007,10119,"Horses, live except pure-bred breeding",Import,1469007,149395,Number of items,337,01_live_animals
+Argentina,2007,10119,"Horses, live except pure-bred breeding",Export,17707470,2092138,Number of items,4812,01_live_animals
+Argentina,2007,10210,"Bovine animals, live pure-bred breeding",Export,25990,2110,Number of items,9,01_live_animals
+Argentina,2007,10290,"Bovine animals, live, except pure-bred breeding",Export,2019669,775297,Number of items,1941,01_live_animals
+Argentina,2007,10392,"Swine, live except pure-bred breeding > 50 kg",Import,400455,102476,Number of items,993,01_live_animals
+Argentina,2007,10410,"Sheep, live",Import,12791,1110,Number of items,8,01_live_animals
+Argentina,2007,10410,"Sheep, live",Export,71439,10745,Number of items,141,01_live_animals
+Argentina,2007,10511,"Fowls, live domestic < 185 grams",Import,4962021,21135,Number of items,463041,01_live_animals
+Argentina,2007,10511,"Fowls, live domestic < 185 grams",Export,378200,7317,Number of items,150084,01_live_animals
+Argentina,2007,10600,"Animals, live, except farm animals",Import,691527,19944,Number of items,31878022,01_live_animals
+Argentina,2007,10600,"Animals, live, except farm animals",Export,1093012,33738,Number of items,30736,01_live_animals
+Argentina,2006,10111,"Horses, live pure-bred breeding",Import,1270785,160019,Number of items,336,01_live_animals
+Argentina,2006,10111,"Horses, live pure-bred breeding",Export,466509,69680,Number of items,153,01_live_animals
+Argentina,2006,10111,"Horses, live pure-bred breeding",Re-Import,46093,8800,Number of items,18,01_live_animals
+Argentina,2006,10119,"Horses, live except pure-bred breeding",Import,782762,130460,Number of items,267,01_live_animals
+Argentina,2006,10119,"Horses, live except pure-bred breeding",Export,13095672,2331550,Number of items,5507,01_live_animals
+Argentina,2006,10119,"Horses, live except pure-bred breeding",Re-Import,8972,2850,Number of items,7,01_live_animals
+Argentina,2006,10210,"Bovine animals, live pure-bred breeding",Import,50352,8800,Number of items,22,01_live_animals
+Argentina,2006,10210,"Bovine animals, live pure-bred breeding",Export,200284,41965,Number of items,122,01_live_animals
+Argentina,2006,10290,"Bovine animals, live, except pure-bred breeding",Export,1876440,749991,Number of items,1781,01_live_animals
+Argentina,2006,10310,"Swine, live pure-bred breeding",Export,9000,3080,Number of items,23,01_live_animals
+Argentina,2006,10392,"Swine, live except pure-bred breeding > 50 kg",Export,60180,42087,Number of items,78,01_live_animals
+Argentina,2006,10410,"Sheep, live",Import,221410,85712,Number of items,50,01_live_animals
+Argentina,2006,10410,"Sheep, live",Export,34123,4530,Number of items,59,01_live_animals
+Argentina,2006,10420,"Goats, live",Import,39600,3280,Number of items,62,01_live_animals
+Argentina,2006,10511,"Fowls, live domestic < 185 grams",Import,4746946,20443,Number of items,445640,01_live_animals
+Argentina,2006,10511,"Fowls, live domestic < 185 grams",Export,24774,608,Number of items,13800,01_live_animals
+Argentina,2006,10600,"Animals, live, except farm animals",Import,656563,23321,Number of items,22010476,01_live_animals
+Argentina,2006,10600,"Animals, live, except farm animals",Export,844888,31972,Number of items,122024018,01_live_animals
+Argentina,2005,10119,"Horses, live except pure-bred breeding",Import,719346,112170,Number of items,238,01_live_animals
+Argentina,2005,10119,"Horses, live except pure-bred breeding",Export,9505489,2279985,Number of items,9748,01_live_animals
+Argentina,2005,10210,"Bovine animals, live pure-bred breeding",Import,6111,3296,Number of items,5,01_live_animals
+Argentina,2005,10210,"Bovine animals, live pure-bred breeding",Export,80883,23650,Number of items,61,01_live_animals
+Argentina,2005,10290,"Bovine animals, live, except pure-bred breeding",Import,40474,34600,Number of items,173,01_live_animals
+Argentina,2005,10290,"Bovine animals, live, except pure-bred breeding",Export,1086053,420670,Number of items,976,01_live_animals
+Argentina,2005,10392,"Swine, live except pure-bred breeding > 50 kg",Import,83939,22125,Number of items,248,01_live_animals
+Argentina,2005,10392,"Swine, live except pure-bred breeding > 50 kg",Export,17705,2978,Number of items,26,01_live_animals
+Argentina,2005,10410,"Sheep, live",Import,390095,117630,Number of items,3742,01_live_animals
+Argentina,2005,10420,"Goats, live",Export,10000,1800,Number of items,50,01_live_animals
+Argentina,2005,10511,"Fowls, live domestic < 185 grams",Import,4406639,21471,Number of items,449827,01_live_animals
+Argentina,2005,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4020,26,Number of items,320,01_live_animals
+Argentina,2005,10600,"Animals, live, except farm animals",Import,405744,15115,Number of items,15382,01_live_animals
+Argentina,2005,10600,"Animals, live, except farm animals",Export,1449060,46549,Number of items,28013,01_live_animals
+Argentina,2004,10119,"Horses, live except pure-bred breeding",Import,403645,66365,Number of items,146,01_live_animals
+Argentina,2004,10119,"Horses, live except pure-bred breeding",Export,7572118,1897634,Number of items,6927,01_live_animals
+Argentina,2004,10210,"Bovine animals, live pure-bred breeding",Import,1475,450,Number of items,1,01_live_animals
+Argentina,2004,10210,"Bovine animals, live pure-bred breeding",Export,254482,54656,Number of items,117,01_live_animals
+Argentina,2004,10290,"Bovine animals, live, except pure-bred breeding",Import,98021,101000,Number of items,312,01_live_animals
+Argentina,2004,10290,"Bovine animals, live, except pure-bred breeding",Export,303824,315650,Number of items,1312,01_live_animals
+Argentina,2004,10310,"Swine, live pure-bred breeding",Export,7787,6213,Number of items,64,01_live_animals
+Argentina,2004,10392,"Swine, live except pure-bred breeding > 50 kg",Import,141947,36340,Number of items,525,01_live_animals
+Argentina,2004,10392,"Swine, live except pure-bred breeding > 50 kg",Export,16024,12787,Number of items,122,01_live_animals
+Argentina,2004,10410,"Sheep, live",Import,79978,18602,Number of items,345,01_live_animals
+Argentina,2004,10410,"Sheep, live",Export,1399494,1419458,Number of items,35519,01_live_animals
+Argentina,2004,10511,"Fowls, live domestic < 185 grams",Import,3941221,19008,Number of items,389348,01_live_animals
+Argentina,2004,10519,"Poultry, live except domestic fowls, < 185 grams",Import,7718,289,Number of items,3915,01_live_animals
+Argentina,2004,10600,"Animals, live, except farm animals",Import,295878,11999,Number of items,51009798,01_live_animals
+Argentina,2004,10600,"Animals, live, except farm animals",Export,1167281,32596,Number of items,143329640,01_live_animals
+Argentina,2003,10119,"Horses, live except pure-bred breeding",Import,434418,70800,Number of items,154,01_live_animals
+Argentina,2003,10119,"Horses, live except pure-bred breeding",Export,5895195,1596072,Number of items,697,01_live_animals
+Argentina,2003,10210,"Bovine animals, live pure-bred breeding",Import,229334,24448,Number of items,45,01_live_animals
+Argentina,2003,10210,"Bovine animals, live pure-bred breeding",Export,48824,35250,Number of items,39,01_live_animals
+Argentina,2003,10290,"Bovine animals, live, except pure-bred breeding",Import,16531,30613,Number of items,91,01_live_animals
+Argentina,2003,10290,"Bovine animals, live, except pure-bred breeding",Export,702262,506781,Number of items,1440,01_live_animals
+Argentina,2003,10310,"Swine, live pure-bred breeding",Export,5769,2940,Number of items,14,01_live_animals
+Argentina,2003,10392,"Swine, live except pure-bred breeding > 50 kg",Export,48289,30660,No Quantity,,01_live_animals
+Argentina,2003,10392,"Swine, live except pure-bred breeding > 50 kg",Import,45421,18300,Number of items,182,01_live_animals
+Argentina,2003,10410,"Sheep, live",Import,78477,54855,Number of items,1923,01_live_animals
+Argentina,2003,10410,"Sheep, live",Export,199072,243920,Number of items,4246,01_live_animals
+Argentina,2003,10511,"Fowls, live domestic < 185 grams",Import,3474100,19782,Number of items,412087,01_live_animals
+Argentina,2003,10591,"Fowls, live domestic > 185 grams",Export,1220,150,No Quantity,,01_live_animals
+Argentina,2003,10600,"Animals, live, except farm animals",Export,1046106,33569,No Quantity,,01_live_animals
+Argentina,2003,10600,"Animals, live, except farm animals",Import,344938,9659,Number of items,28015909,01_live_animals
+Argentina,2002,10119,"Horses, live except pure-bred breeding",Import,126241,24652,Number of items,52,01_live_animals
+Argentina,2002,10119,"Horses, live except pure-bred breeding",Export,6494229,1628118,Number of items,3636,01_live_animals
+Argentina,2002,10210,"Bovine animals, live pure-bred breeding",Import,37118,8575,Number of items,14,01_live_animals
+Argentina,2002,10310,"Swine, live pure-bred breeding",Export,2950,1225,Number of items,8,01_live_animals
+Argentina,2002,10392,"Swine, live except pure-bred breeding > 50 kg",Import,116616,66820,Number of items,744,01_live_animals
+Argentina,2002,10392,"Swine, live except pure-bred breeding > 50 kg",Export,1000,415,Number of items,2,01_live_animals
+Argentina,2002,10410,"Sheep, live",Import,66963,1780,Number of items,51,01_live_animals
+Argentina,2002,10410,"Sheep, live",Export,71157,89500,Number of items,3800,01_live_animals
+Argentina,2002,10511,"Fowls, live domestic < 185 grams",Import,2156134,15755,Number of items,287154,01_live_animals
+Argentina,2002,10511,"Fowls, live domestic < 185 grams",Export,317491,21856,Number of items,546818,01_live_animals
+Argentina,2002,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4890,220,Number of items,3036,01_live_animals
+Argentina,2002,10591,"Fowls, live domestic > 185 grams",Export,10625,581,Number of items,316,01_live_animals
+Argentina,2002,10600,"Animals, live, except farm animals",Import,261846,8234,Number of items,10002055,01_live_animals
+Argentina,2002,10600,"Animals, live, except farm animals",Export,508757,16527,Number of items,63627,01_live_animals
+Argentina,2001,10111,"Horses, live pure-bred breeding",Import,1031477,74792,Number of items,160,01_live_animals
+Argentina,2001,10111,"Horses, live pure-bred breeding",Export,3276294,130390,Number of items,303,01_live_animals
+Argentina,2001,10119,"Horses, live except pure-bred breeding",Import,765471,1037785,Number of items,2470,01_live_animals
+Argentina,2001,10119,"Horses, live except pure-bred breeding",Export,11554756,1251325,Number of items,2792,01_live_animals
+Argentina,2001,10210,"Bovine animals, live pure-bred breeding",Import,109858,13945,Number of items,28,01_live_animals
+Argentina,2001,10290,"Bovine animals, live, except pure-bred breeding",Import,650683,724965,Number of items,1954,01_live_animals
+Argentina,2001,10290,"Bovine animals, live, except pure-bred breeding",Export,11118,21300,Number of items,36,01_live_animals
+Argentina,2001,10392,"Swine, live except pure-bred breeding > 50 kg",Import,358062,62035,Number of items,871,01_live_animals
+Argentina,2001,10410,"Sheep, live",Import,239812,376070,Number of items,13443,01_live_animals
+Argentina,2001,10420,"Goats, live",Import,105116,3150,Number of items,103,01_live_animals
+Argentina,2001,10511,"Fowls, live domestic < 185 grams",Import,5601612,61934,Number of items,1307231,01_live_animals
+Argentina,2001,10511,"Fowls, live domestic < 185 grams",Export,1861101,43010,Number of items,953230,01_live_animals
+Argentina,2001,10519,"Poultry, live except domestic fowls, < 185 grams",Import,23033,1294,Number of items,14246,01_live_animals
+Argentina,2001,10591,"Fowls, live domestic > 185 grams",Export,10140,492,Number of items,256,01_live_animals
+Argentina,2001,10600,"Animals, live, except farm animals",Import,558917,14809,Number of items,11792420,01_live_animals
+Argentina,2001,10600,"Animals, live, except farm animals",Export,747300,17134,Number of items,1019601,01_live_animals
+Argentina,2000,10111,"Horses, live pure-bred breeding",Import,892617,79662,Number of items,195,01_live_animals
+Argentina,2000,10111,"Horses, live pure-bred breeding",Export,1568408,80419,Number of items,182,01_live_animals
+Argentina,2000,10119,"Horses, live except pure-bred breeding",Import,834813,1105385,Number of items,2616,01_live_animals
+Argentina,2000,10119,"Horses, live except pure-bred breeding",Export,8960770,1209826,Number of items,2723,01_live_animals
+Argentina,2000,10210,"Bovine animals, live pure-bred breeding",Import,240430,21027,Number of items,45,01_live_animals
+Argentina,2000,10210,"Bovine animals, live pure-bred breeding",Export,224330,148120,Number of items,319,01_live_animals
+Argentina,2000,10290,"Bovine animals, live, except pure-bred breeding",Import,5245060,6444097,Number of items,43316,01_live_animals
+Argentina,2000,10290,"Bovine animals, live, except pure-bred breeding",Export,1955742,3637545,Number of items,7880,01_live_animals
+Argentina,2000,10392,"Swine, live except pure-bred breeding > 50 kg",Import,2792,800,Number of items,8,01_live_animals
+Argentina,2000,10410,"Sheep, live",Import,436493,807937,Number of items,27557,01_live_animals
+Argentina,2000,10410,"Sheep, live",Export,7480,90,Number of items,1,01_live_animals
+Argentina,2000,10420,"Goats, live",Import,54531,2550,Number of items,93,01_live_animals
+Argentina,2000,10511,"Fowls, live domestic < 185 grams",Import,6344579,74144,Number of items,1553148,01_live_animals
+Argentina,2000,10511,"Fowls, live domestic < 185 grams",Export,2359513,54548,Number of items,1215300,01_live_animals
+Argentina,2000,10519,"Poultry, live except domestic fowls, < 185 grams",Import,64209,2078,Number of items,29901,01_live_animals
+Argentina,2000,10591,"Fowls, live domestic > 185 grams",Export,7320,365,Number of items,173,01_live_animals
+Argentina,2000,10599,"Poultry, live except domestic fowls, > 185 grams",Import,266,23,Number of items,300,01_live_animals
+Argentina,2000,10600,"Animals, live, except farm animals",Import,853539,17209,Number of items,4314771,01_live_animals
+Argentina,2000,10600,"Animals, live, except farm animals",Export,819128,41930,Number of items,2423859,01_live_animals
+Argentina,1999,10111,"Horses, live pure-bred breeding",Import,611263,70358,Weight in kilograms,70358,01_live_animals
+Argentina,1999,10111,"Horses, live pure-bred breeding",Export,1509611,115586,Weight in kilograms,115586,01_live_animals
+Argentina,1999,10119,"Horses, live except pure-bred breeding",Import,892967,1136885,Weight in kilograms,1136885,01_live_animals
+Argentina,1999,10119,"Horses, live except pure-bred breeding",Export,8842708,1206389,Weight in kilograms,1206389,01_live_animals
+Argentina,1999,10210,"Bovine animals, live pure-bred breeding",Import,245673,39750,Weight in kilograms,39750,01_live_animals
+Argentina,1999,10210,"Bovine animals, live pure-bred breeding",Export,192899,102238,Weight in kilograms,102238,01_live_animals
+Argentina,1999,10290,"Bovine animals, live, except pure-bred breeding",Import,5164181,5624229,Weight in kilograms,5624229,01_live_animals
+Argentina,1999,10290,"Bovine animals, live, except pure-bred breeding",Export,3758428,5591687,Weight in kilograms,5591687,01_live_animals
+Argentina,1999,10310,"Swine, live pure-bred breeding",Import,108781,11250,Weight in kilograms,11250,01_live_animals
+Argentina,1999,10310,"Swine, live pure-bred breeding",Export,40322,6687,Weight in kilograms,6687,01_live_animals
+Argentina,1999,10391,"Swine, live except pure-bred breeding < 50 kg",Import,39899,11937,Weight in kilograms,11937,01_live_animals
+Argentina,1999,10392,"Swine, live except pure-bred breeding > 50 kg",Import,621356,189667,Weight in kilograms,189667,01_live_animals
+Argentina,1999,10392,"Swine, live except pure-bred breeding > 50 kg",Export,119639,31851,Weight in kilograms,31851,01_live_animals
+Argentina,1999,10410,"Sheep, live",Import,530218,943181,Weight in kilograms,943181,01_live_animals
+Argentina,1999,10420,"Goats, live",Import,24630,1687,Weight in kilograms,1687,01_live_animals
+Argentina,1999,10511,"Fowls, live domestic < 185 grams",Import,5952877,77115,Weight in kilograms,77115,01_live_animals
+Argentina,1999,10511,"Fowls, live domestic < 185 grams",Export,2322387,71062,Weight in kilograms,71062,01_live_animals
+Argentina,1999,10519,"Poultry, live except domestic fowls, < 185 grams",Import,56059,2218,Weight in kilograms,2218,01_live_animals
+Argentina,1999,10591,"Fowls, live domestic > 185 grams",Export,2438,112,Weight in kilograms,112,01_live_animals
+Argentina,1999,10600,"Animals, live, except farm animals",Import,866167,29125,Weight in kilograms,29125,01_live_animals
+Argentina,1999,10600,"Animals, live, except farm animals",Export,1057288,48639,Weight in kilograms,48639,01_live_animals
+Argentina,1998,10111,"Horses, live pure-bred breeding",Import,724539,71979,Weight in kilograms,71979,01_live_animals
+Argentina,1998,10111,"Horses, live pure-bred breeding",Export,1390714,100016,Weight in kilograms,100016,01_live_animals
+Argentina,1998,10119,"Horses, live except pure-bred breeding",Import,1144559,1084158,Weight in kilograms,1084158,01_live_animals
+Argentina,1998,10119,"Horses, live except pure-bred breeding",Export,12451391,1460253,Weight in kilograms,1460253,01_live_animals
+Argentina,1998,10210,"Bovine animals, live pure-bred breeding",Import,364797,36358,Weight in kilograms,36358,01_live_animals
+Argentina,1998,10210,"Bovine animals, live pure-bred breeding",Export,805117,455761,Weight in kilograms,455761,01_live_animals
+Argentina,1998,10290,"Bovine animals, live, except pure-bred breeding",Import,23006398,23875708,Weight in kilograms,23875708,01_live_animals
+Argentina,1998,10290,"Bovine animals, live, except pure-bred breeding",Export,1759024,2363889,Weight in kilograms,2363889,01_live_animals
+Argentina,1998,10310,"Swine, live pure-bred breeding",Import,6698,4125,Weight in kilograms,4125,01_live_animals
+Argentina,1998,10310,"Swine, live pure-bred breeding",Export,10110,3000,Weight in kilograms,3000,01_live_animals
+Argentina,1998,10392,"Swine, live except pure-bred breeding > 50 kg",Import,625340,184077,Weight in kilograms,184077,01_live_animals
+Argentina,1998,10392,"Swine, live except pure-bred breeding > 50 kg",Export,1600,476,Weight in kilograms,476,01_live_animals
+Argentina,1998,10410,"Sheep, live",Import,872467,1476733,Weight in kilograms,1476733,01_live_animals
+Argentina,1998,10410,"Sheep, live",Export,1500,179,Weight in kilograms,179,01_live_animals
+Argentina,1998,10420,"Goats, live",Import,464836,23237,Weight in kilograms,23237,01_live_animals
+Argentina,1998,10511,"Fowls, live domestic < 185 grams",Import,8521649,323894,Weight in kilograms,323894,01_live_animals
+Argentina,1998,10511,"Fowls, live domestic < 185 grams",Export,1871895,48367,Weight in kilograms,48367,01_live_animals
+Argentina,1998,10519,"Poultry, live except domestic fowls, < 185 grams",Import,51813,2061,Weight in kilograms,2061,01_live_animals
+Argentina,1998,10591,"Fowls, live domestic > 185 grams",Export,2520,113,Weight in kilograms,113,01_live_animals
+Argentina,1998,10600,"Animals, live, except farm animals",Import,525480,15623,Weight in kilograms,15623,01_live_animals
+Argentina,1998,10600,"Animals, live, except farm animals",Export,969392,44260,Weight in kilograms,44260,01_live_animals
+Argentina,1997,10111,"Horses, live pure-bred breeding",Import,1032425,54544,Weight in kilograms,54544,01_live_animals
+Argentina,1997,10111,"Horses, live pure-bred breeding",Export,3795163,142553,Weight in kilograms,142553,01_live_animals
+Argentina,1997,10119,"Horses, live except pure-bred breeding",Import,953599,871782,Weight in kilograms,871782,01_live_animals
+Argentina,1997,10119,"Horses, live except pure-bred breeding",Export,10397466,1852148,Weight in kilograms,1852148,01_live_animals
+Argentina,1997,10210,"Bovine animals, live pure-bred breeding",Import,677960,52182,Weight in kilograms,52182,01_live_animals
+Argentina,1997,10210,"Bovine animals, live pure-bred breeding",Export,1119389,804894,Weight in kilograms,804894,01_live_animals
+Argentina,1997,10290,"Bovine animals, live, except pure-bred breeding",Import,4191163,5024187,Weight in kilograms,5024187,01_live_animals
+Argentina,1997,10290,"Bovine animals, live, except pure-bred breeding",Export,17488824,31938940,Weight in kilograms,31938940,01_live_animals
+Argentina,1997,10310,"Swine, live pure-bred breeding",Export,25750,6312,Weight in kilograms,6312,01_live_animals
+Argentina,1997,10391,"Swine, live except pure-bred breeding < 50 kg",Import,20277,5250,Weight in kilograms,5250,01_live_animals
+Argentina,1997,10392,"Swine, live except pure-bred breeding > 50 kg",Import,482141,150276,Weight in kilograms,150276,01_live_animals
+Argentina,1997,10392,"Swine, live except pure-bred breeding > 50 kg",Export,8500,2687,Weight in kilograms,2687,01_live_animals
+Argentina,1997,10410,"Sheep, live",Import,2146535,3803385,Weight in kilograms,3803385,01_live_animals
+Argentina,1997,10410,"Sheep, live",Export,1000,218,Weight in kilograms,218,01_live_animals
+Argentina,1997,10420,"Goats, live",Import,234675,19125,Weight in kilograms,19125,01_live_animals
+Argentina,1997,10511,"Fowls, live domestic < 185 grams",Import,7190537,346681,Weight in kilograms,346681,01_live_animals
+Argentina,1997,10511,"Fowls, live domestic < 185 grams",Export,1460937,33917,Weight in kilograms,33917,01_live_animals
+Argentina,1997,10519,"Poultry, live except domestic fowls, < 185 grams",Import,26163,1772,Weight in kilograms,1772,01_live_animals
+Argentina,1997,10600,"Animals, live, except farm animals",Import,1186561,17385,Weight in kilograms,17385,01_live_animals
+Argentina,1997,10600,"Animals, live, except farm animals",Export,929846,46083,Weight in kilograms,46083,01_live_animals
+Argentina,1996,10111,"Horses, live pure-bred breeding",Import,589313,61915,Weight in kilograms,61915,01_live_animals
+Argentina,1996,10111,"Horses, live pure-bred breeding",Export,1122824,166570,Weight in kilograms,166570,01_live_animals
+Argentina,1996,10119,"Horses, live except pure-bred breeding",Import,731885,1037874,Weight in kilograms,1037874,01_live_animals
+Argentina,1996,10119,"Horses, live except pure-bred breeding",Export,8730849,1743174,Weight in kilograms,1743174,01_live_animals
+Argentina,1996,10210,"Bovine animals, live pure-bred breeding",Import,233332,44901,Weight in kilograms,44901,01_live_animals
+Argentina,1996,10210,"Bovine animals, live pure-bred breeding",Export,887853,725815,Weight in kilograms,725815,01_live_animals
+Argentina,1996,10290,"Bovine animals, live, except pure-bred breeding",Import,264065,209738,Weight in kilograms,209738,01_live_animals
+Argentina,1996,10290,"Bovine animals, live, except pure-bred breeding",Export,32234490,58083856,Weight in kilograms,58083856,01_live_animals
+Argentina,1996,10310,"Swine, live pure-bred breeding",Export,3250,476,Weight in kilograms,476,01_live_animals
+Argentina,1996,10391,"Swine, live except pure-bred breeding < 50 kg",Import,132158,12250,Weight in kilograms,12250,01_live_animals
+Argentina,1996,10392,"Swine, live except pure-bred breeding > 50 kg",Import,374660,97015,Weight in kilograms,97015,01_live_animals
+Argentina,1996,10392,"Swine, live except pure-bred breeding > 50 kg",Export,4000,394,Weight in kilograms,394,01_live_animals
+Argentina,1996,10410,"Sheep, live",Import,798372,1121710,Weight in kilograms,1121710,01_live_animals
+Argentina,1996,10410,"Sheep, live",Export,42320,6562,Weight in kilograms,6562,01_live_animals
+Argentina,1996,10420,"Goats, live",Import,36878,1250,Weight in kilograms,1250,01_live_animals
+Argentina,1996,10420,"Goats, live",Export,11759,2757,Weight in kilograms,2757,01_live_animals
+Argentina,1996,10511,"Fowls, live domestic < 185 grams",Import,5290219,105963,Weight in kilograms,105963,01_live_animals
+Argentina,1996,10511,"Fowls, live domestic < 185 grams",Export,1281530,34058,Weight in kilograms,34058,01_live_animals
+Argentina,1996,10519,"Poultry, live except domestic fowls, < 185 grams",Import,4545,111,Weight in kilograms,111,01_live_animals
+Argentina,1996,10591,"Fowls, live domestic > 185 grams",Export,399,11,Weight in kilograms,11,01_live_animals
+Argentina,1996,10599,"Poultry, live except domestic fowls, > 185 grams",Import,2072,97,Weight in kilograms,97,01_live_animals
+Argentina,1996,10600,"Animals, live, except farm animals",Import,398795,10215,Weight in kilograms,10215,01_live_animals
+Argentina,1996,10600,"Animals, live, except farm animals",Export,226687,10870,Weight in kilograms,10870,01_live_animals
+Argentina,1995,10111,"Horses, live pure-bred breeding",Import,771813,62565,Weight in kilograms,62565,01_live_animals
+Argentina,1995,10111,"Horses, live pure-bred breeding",Export,2286521,141242,Weight in kilograms,141242,01_live_animals
+Argentina,1995,10119,"Horses, live except pure-bred breeding",Import,706179,1042886,Weight in kilograms,1042886,01_live_animals
+Argentina,1995,10119,"Horses, live except pure-bred breeding",Export,7493120,2033929,Weight in kilograms,2033929,01_live_animals
+Argentina,1995,10210,"Bovine animals, live pure-bred breeding",Import,174978,53886,Weight in kilograms,53886,01_live_animals
+Argentina,1995,10210,"Bovine animals, live pure-bred breeding",Export,1731633,1234295,Weight in kilograms,1234295,01_live_animals
+Argentina,1995,10290,"Bovine animals, live, except pure-bred breeding",Import,616777,542889,Weight in kilograms,542889,01_live_animals
+Argentina,1995,10290,"Bovine animals, live, except pure-bred breeding",Export,85241304,137489728,Weight in kilograms,137489728,01_live_animals
+Argentina,1995,10391,"Swine, live except pure-bred breeding < 50 kg",Import,121716,24378,Weight in kilograms,24378,01_live_animals
+Argentina,1995,10392,"Swine, live except pure-bred breeding > 50 kg",Import,325747,85355,Weight in kilograms,85355,01_live_animals
+Argentina,1995,10392,"Swine, live except pure-bred breeding > 50 kg",Export,6600,3312,Weight in kilograms,3312,01_live_animals
+Argentina,1995,10410,"Sheep, live",Import,854869,879999,Weight in kilograms,879999,01_live_animals
+Argentina,1995,10410,"Sheep, live",Export,61062,11886,Weight in kilograms,11886,01_live_animals
+Argentina,1995,10420,"Goats, live",Import,10830,132,Weight in kilograms,132,01_live_animals
+Argentina,1995,10420,"Goats, live",Export,117179,75601,Weight in kilograms,75601,01_live_animals
+Argentina,1995,10511,"Fowls, live domestic < 185 grams",Import,5389861,151716,Weight in kilograms,151716,01_live_animals
+Argentina,1995,10511,"Fowls, live domestic < 185 grams",Export,374394,8375,Weight in kilograms,8375,01_live_animals
+Argentina,1995,10519,"Poultry, live except domestic fowls, < 185 grams",Import,43192,5737,Weight in kilograms,5737,01_live_animals
+Argentina,1995,10519,"Poultry, live except domestic fowls, < 185 grams",Export,1649,60,Weight in kilograms,60,01_live_animals
+Argentina,1995,10599,"Poultry, live except domestic fowls, > 185 grams",Import,4335,38,Weight in kilograms,38,01_live_animals
+Argentina,1995,10600,"Animals, live, except farm animals",Import,361965,9802,Weight in kilograms,9802,01_live_animals
+Argentina,1995,10600,"Animals, live, except farm animals",Export,498858,31236,Weight in kilograms,31236,01_live_animals
+Argentina,1994,10111,"Horses, live pure-bred breeding",Import,913833,63187,Weight in kilograms,63187,01_live_animals
+Argentina,1994,10111,"Horses, live pure-bred breeding",Export,753913,58273,Weight in kilograms,58273,01_live_animals
+Argentina,1994,10119,"Horses, live except pure-bred breeding",Import,914202,1289744,Weight in kilograms,1289744,01_live_animals
+Argentina,1994,10119,"Horses, live except pure-bred breeding",Export,6020307,1410675,Weight in kilograms,1410675,01_live_animals
+Argentina,1994,10210,"Bovine animals, live pure-bred breeding",Import,720881,120682,Weight in kilograms,120682,01_live_animals
+Argentina,1994,10210,"Bovine animals, live pure-bred breeding",Export,2179986,958374,Weight in kilograms,958374,01_live_animals
+Argentina,1994,10290,"Bovine animals, live, except pure-bred breeding",Import,1107558,967757,Weight in kilograms,967757,01_live_animals
+Argentina,1994,10290,"Bovine animals, live, except pure-bred breeding",Export,41604588,69103984,Weight in kilograms,69103984,01_live_animals
+Argentina,1994,10310,"Swine, live pure-bred breeding",Import,289462,15750,Weight in kilograms,15750,01_live_animals
+Argentina,1994,10392,"Swine, live except pure-bred breeding > 50 kg",Import,581342,107527,Weight in kilograms,107527,01_live_animals
+Argentina,1994,10410,"Sheep, live",Import,582640,611565,Weight in kilograms,611565,01_live_animals
+Argentina,1994,10410,"Sheep, live",Export,35128,30972,Weight in kilograms,30972,01_live_animals
+Argentina,1994,10511,"Fowls, live domestic < 185 grams",Import,5595244,338172,Weight in kilograms,338172,01_live_animals
+Argentina,1994,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1114847,16429,Weight in kilograms,16429,01_live_animals
+Argentina,1994,10519,"Poultry, live except domestic fowls, < 185 grams",Export,34076,1062,Weight in kilograms,1062,01_live_animals
+Argentina,1994,10599,"Poultry, live except domestic fowls, > 185 grams",Import,679,24,Weight in kilograms,24,01_live_animals
+Argentina,1994,10600,"Animals, live, except farm animals",Import,488418,27715,Weight in kilograms,27715,01_live_animals
+Argentina,1994,10600,"Animals, live, except farm animals",Export,348443,29811,Weight in kilograms,29811,01_live_animals
+Argentina,1993,10111,"Horses, live pure-bred breeding",Import,1031166,114956,Weight in kilograms,114956,01_live_animals
+Argentina,1993,10111,"Horses, live pure-bred breeding",Export,658913,42010,Weight in kilograms,42010,01_live_animals
+Argentina,1993,10119,"Horses, live except pure-bred breeding",Import,507547,519755,Weight in kilograms,519755,01_live_animals
+Argentina,1993,10119,"Horses, live except pure-bred breeding",Export,5259879,1675893,Weight in kilograms,1675893,01_live_animals
+Argentina,1993,10120,"Asses, mules and hinnies, live",Export,32399,48601,Weight in kilograms,48601,01_live_animals
+Argentina,1993,10210,"Bovine animals, live pure-bred breeding",Import,215432,36831,Weight in kilograms,36831,01_live_animals
+Argentina,1993,10210,"Bovine animals, live pure-bred breeding",Export,1301960,585386,Weight in kilograms,585386,01_live_animals
+Argentina,1993,10290,"Bovine animals, live, except pure-bred breeding",Import,1048215,1209710,Weight in kilograms,1209710,01_live_animals
+Argentina,1993,10290,"Bovine animals, live, except pure-bred breeding",Export,3700110,4476772,Weight in kilograms,4476772,01_live_animals
+Argentina,1993,10310,"Swine, live pure-bred breeding",Import,387325,31781,Weight in kilograms,31781,01_live_animals
+Argentina,1993,10392,"Swine, live except pure-bred breeding > 50 kg",Import,407070,62964,Weight in kilograms,62964,01_live_animals
+Argentina,1993,10410,"Sheep, live",Import,70777,20519,Weight in kilograms,20519,01_live_animals
+Argentina,1993,10410,"Sheep, live",Export,2071479,3375952,Weight in kilograms,3375952,01_live_animals
+Argentina,1993,10420,"Goats, live",Export,7155,8625,Weight in kilograms,8625,01_live_animals
+Argentina,1993,10511,"Fowls, live domestic < 185 grams",Import,9968759,1418999,Weight in kilograms,1418999,01_live_animals
+Argentina,1993,10519,"Poultry, live except domestic fowls, < 185 grams",Import,1540394,17444,Weight in kilograms,17444,01_live_animals
+Argentina,1993,10519,"Poultry, live except domestic fowls, < 185 grams",Export,69759,1687,Weight in kilograms,1687,01_live_animals
+Argentina,1993,10591,"Fowls, live domestic > 185 grams",Import,37393,5812,Weight in kilograms,5812,01_live_animals
+Argentina,1993,10600,"Animals, live, except farm animals",Import,367474,9695,Weight in kilograms,9695,01_live_animals
+Argentina,1993,10600,"Animals, live, except farm animals",Export,130561,3912,Weight in kilograms,3912,01_live_animals
+Armenia,2015,10210,"Bovine animals, live pure-bred breeding",Import,798748,176651,Number of items,321,01_live_animals
+Armenia,2015,10210,"Bovine animals, live pure-bred breeding",Export,900,700,Number of items,20,01_live_animals
+Armenia,2015,10290,"Bovine animals, live, except pure-bred breeding",Export,1110382,604874,Number of items,3086,01_live_animals
+Armenia,2015,10391,"Swine, live except pure-bred breeding < 50 kg",Import,124,62,Number of items,15,01_live_animals
+Armenia,2015,10392,"Swine, live except pure-bred breeding > 50 kg",Import,109441,73590,Number of items,822,01_live_animals
+Armenia,2015,10410,"Sheep, live",Export,3438001,1721052,Number of items,49187,01_live_animals
+Armenia,2015,10511,"Fowls, live domestic < 185 grams",Import,3687340,351084,Number of items,7973721,01_live_animals
+Armenia,2015,10591,"Fowls, live domestic > 185 grams",Import,166357,68863,Number of items,76850,01_live_animals
+Armenia,2015,10600,"Animals, live, except farm animals",Import,242643,7159,Number of items,618242109,01_live_animals
+Armenia,2015,10600,"Animals, live, except farm animals",Export,6254,439,Number of items,99,01_live_animals
+Armenia,2015,10600,"Animals, live, except farm animals",Re-Import,426,5,Number of items,20,01_live_animals
+Armenia,2014,10210,"Bovine animals, live pure-bred breeding",Export,455384,97960,Number of items,176,01_live_animals
+Armenia,2014,10210,"Bovine animals, live pure-bred breeding",Import,108800,18260,Number of items,32,01_live_animals
+Armenia,2014,10290,"Bovine animals, live, except pure-bred breeding",Export,486605,402525,Number of items,2504,01_live_animals
+Armenia,2014,10310,"Swine, live pure-bred breeding",Import,367071,47170,Number of items,1202,01_live_animals
+Armenia,2014,10392,"Swine, live except pure-bred breeding > 50 kg",Import,72824,39540,Number of items,399,01_live_animals
+Armenia,2014,10410,"Sheep, live",Export,2307175,1081567,Number of items,27937,01_live_animals
+Armenia,2014,10410,"Sheep, live",Import,423,60,Number of items,2,01_live_animals
+Armenia,2014,10420,"Goats, live",Export,446,100,Number of items,2,01_live_animals
+Armenia,2014,10420,"Goats, live",Import,863,155,Number of items,4,01_live_animals
+Armenia,2014,10511,"Fowls, live domestic < 185 grams",Import,3777883,333654,Number of items,7908612,01_live_animals
+Armenia,2014,10591,"Fowls, live domestic > 185 grams",Import,290701,94380,Number of items,105020,01_live_animals
+Armenia,2014,10599,"Poultry, live except domestic fowls, > 185 grams",Import,411,120,Number of items,30,01_live_animals
+Armenia,2014,10600,"Animals, live, except farm animals",Re-Export,50455,6000,Number of items,1,01_live_animals
+Armenia,2014,10600,"Animals, live, except farm animals",Export,50491,6078,Number of items,2,01_live_animals
+Armenia,2014,10600,"Animals, live, except farm animals",Import,1193198,20650,Number of items,420675698,01_live_animals
+Armenia,2013,10210,"Bovine animals, live pure-bred breeding",Import,1607904,297605,Number of items,574,01_live_animals
+Armenia,2013,10290,"Bovine animals, live, except pure-bred breeding",Export,235019,197400,Number of items,760,01_live_animals
+Armenia,2013,10410,"Sheep, live",Re-Export,112118,34117,Number of items,810,01_live_animals
+Armenia,2013,10410,"Sheep, live",Export,4569041,1579033,Number of items,37176,01_live_animals
+Armenia,2013,10511,"Fowls, live domestic < 185 grams",Export,93798,3400,Number of items,85000,01_live_animals
+Armenia,2013,10511,"Fowls, live domestic < 185 grams",Import,3592953,424622,Number of items,6961626,01_live_animals
+Armenia,2013,10591,"Fowls, live domestic > 185 grams",Import,808102,260507,Number of items,282800,01_live_animals
+Armenia,2013,10600,"Animals, live, except farm animals",Re-Export,49700,737,Number of items,6,01_live_animals
+Armenia,2013,10600,"Animals, live, except farm animals",Export,53300,3737,Number of items,3000006,01_live_animals
+Armenia,2013,10600,"Animals, live, except farm animals",Import,1244098,15201,Number of items,2242280,01_live_animals
+Armenia,2012,10210,"Bovine animals, live pure-bred breeding",Import,1053830,168629,Number of items,320,01_live_animals
+Armenia,2012,10290,"Bovine animals, live, except pure-bred breeding",Import,24027,7030,Number of items,74,01_live_animals
+Armenia,2012,10310,"Swine, live pure-bred breeding",Import,210770,54315,Number of items,720,01_live_animals
+Armenia,2012,10391,"Swine, live except pure-bred breeding < 50 kg",Import,207214,68070,Number of items,1387,01_live_animals
+Armenia,2012,10392,"Swine, live except pure-bred breeding > 50 kg",Import,203673,86812,Number of items,981,01_live_animals
+Armenia,2012,10410,"Sheep, live",Export,4421277,1202450,Number of items,31169,01_live_animals
+Armenia,2012,10511,"Fowls, live domestic < 185 grams",Export,173130,10490,Number of items,169500,01_live_animals
+Armenia,2012,10511,"Fowls, live domestic < 185 grams",Import,1951238,121628,Number of items,2768543,01_live_animals
+Armenia,2012,10591,"Fowls, live domestic > 185 grams",Export,400,400,Number of items,100,01_live_animals
+Armenia,2012,10591,"Fowls, live domestic > 185 grams",Import,678,408,Number of items,115,01_live_animals
+Armenia,2012,10599,"Poultry, live except domestic fowls, > 185 grams",Import,590,50,Number of items,50,01_live_animals
+Armenia,2012,10600,"Animals, live, except farm animals",Export,6616,692,Number of items,9890,01_live_animals
+Armenia,2012,10600,"Animals, live, except farm animals",Import,414717,6610,Number of items,1013770,01_live_animals
