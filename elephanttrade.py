@@ -1,5 +1,6 @@
 #Author: Nitin Ramesh
 import csv, os
+import db_access
 
 #To-Do
 # Implement python visualization
@@ -19,8 +20,13 @@ data = []
 count = 0
 #Below implementation , splits even if the data has comma inside it
 with open(os.path.dirname(__file__) + '/Files/mini_trade.csv') as file:
-    reader = csv.reader(file)
+    reader = csv.reader(file) 
     for i in reader:
-        data.append(i)
+        print(i)
 
 
+
+    # for i in reader:
+    #     if count != 0 :
+    #         print(i)
+    #         #data.append(i)
