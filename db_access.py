@@ -1,5 +1,5 @@
 #Database functions
-import mysql.connector
+import mysql
 
 et_db = mysql.connector.connect(
     host = "localhost",

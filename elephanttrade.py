@@ -1,6 +1,6 @@
 #Author: Nitin Ramesh
 import csv, os
-import db_access
+#import db_access
 
 #To-Do
 # Implement python visualization
@@ -23,8 +23,6 @@ with open(os.path.dirname(__file__) + '/Files/mini_trade.csv') as file:
     reader = csv.reader(file) 
     for i in reader:
         print(i)
-
-
 
     # for i in reader:
     #     if count != 0 :
