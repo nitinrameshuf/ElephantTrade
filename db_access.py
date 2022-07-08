@@ -1,4 +1,6 @@
-#Database functions
+#Database functions here
+
+#migrate to PostGresql
 import mysql
 
 et_db = mysql.connector.connect(
